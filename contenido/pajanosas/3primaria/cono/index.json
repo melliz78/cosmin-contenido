@@ -1,0 +1,14 @@
+{
+  "asignatura": "cono",
+  "colegio_id": "pajanosas",
+  "curso": "3primaria",
+  "temas": [
+    {
+      "id": "tema_08",
+      "numero": 8,
+      "nombre": "¿Queremos cambiar de vida?",
+      "fichero": "tema_08_queremos_cambiar_de_vida.json",
+      "descripcion": "Población, demografía, sectores económicos"
+    }
+  ]
+}
