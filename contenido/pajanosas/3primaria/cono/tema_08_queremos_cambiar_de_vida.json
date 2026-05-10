@@ -6,7 +6,7 @@
     "tema": "tema_08_queremos_cambiar_de_vida",
     "titulo": "¿Queremos cambiar de vida?",
     "idioma": "es",
-    "version": "2026-05-09"
+    "version": "2026-05-10"
   },
   "preguntas": [
     {
@@ -14,7 +14,6 @@
       "tipo": "vf",
       "pregunta": "Una población es el conjunto de personas que vive en un territorio.",
       "respuesta_correcta": true,
-      "sinonimos_aceptados": ["verdadero", "sí", "correcto"],
       "explicacion": "Correcto. La población está formada por las personas que habitan en un lugar.",
       "dificultad": "facil"
     },
@@ -23,7 +22,6 @@
       "tipo": "vf",
       "pregunta": "La demografía es la ciencia que estudia la población.",
       "respuesta_correcta": true,
-      "sinonimos_aceptados": ["verdadero", "sí", "correcto"],
       "explicacion": "Muy bien. La demografía estudia cómo es y cómo cambia la población.",
       "dificultad": "facil"
     },
@@ -32,7 +30,6 @@
       "tipo": "vf",
       "pregunta": "La natalidad hace que la población disminuya.",
       "respuesta_correcta": false,
-      "sinonimos_aceptados": ["falso", "no", "incorrecto"],
       "explicacion": "Falso. La natalidad aumenta la población porque nacen personas.",
       "dificultad": "facil"
     },
@@ -41,7 +38,6 @@
       "tipo": "vf",
       "pregunta": "La emigración es la llegada de personas a un lugar para vivir en él.",
       "respuesta_correcta": false,
-      "sinonimos_aceptados": ["falso", "no", "incorrecto"],
       "explicacion": "Falso. La emigración es la salida de personas de un lugar. La llegada se llama inmigración.",
       "dificultad": "media"
     },
@@ -50,8 +46,23 @@
       "tipo": "vf",
       "pregunta": "En Andalucía, las zonas costeras y las capitales suelen estar más pobladas.",
       "respuesta_correcta": true,
-      "sinonimos_aceptados": ["verdadero", "sí", "correcto"],
       "explicacion": "Correcto. En Andalucía, muchas zonas costeras y capitales concentran más población.",
+      "dificultad": "media"
+    },
+    {
+      "id": "cono_t08_vf_006",
+      "tipo": "vf",
+      "pregunta": "La población joven está formada por personas menores de 16 años.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. En este tema, la población joven son los menores de 16 años.",
+      "dificultad": "media"
+    },
+    {
+      "id": "cono_t08_vf_007",
+      "tipo": "vf",
+      "pregunta": "La población anciana está formada por personas mayores de 65 años.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. Las personas mayores de 65 años forman la población anciana.",
       "dificultad": "media"
     },
     {
@@ -65,7 +76,6 @@
         "D": "Natalidad"
       },
       "respuesta_correcta": "A",
-      "sinonimos_aceptados": ["padrón", "padrón municipal", "la a", "opción a"],
       "explicacion": "El padrón municipal recoge datos de las personas que viven en una localidad.",
       "dificultad": "facil"
     },
@@ -80,7 +90,6 @@
         "D": "Cada semana"
       },
       "respuesta_correcta": "B",
-      "sinonimos_aceptados": ["cada diez años", "diez años", "la b", "opción b"],
       "explicacion": "El censo se realiza cada diez años.",
       "dificultad": "facil"
     },
@@ -95,7 +104,6 @@
         "D": "Estudiantes de primaria"
       },
       "respuesta_correcta": "C",
-      "sinonimos_aceptados": ["personas que trabajan", "personas que buscan empleo", "la c", "opción c"],
       "explicacion": "La población activa incluye a las personas adultas que trabajan o buscan empleo.",
       "dificultad": "media"
     },
@@ -110,7 +118,6 @@
         "D": "Sector escolar"
       },
       "respuesta_correcta": "A",
-      "sinonimos_aceptados": ["sector primario", "primario", "la a", "opción a"],
       "explicacion": "El sector primario obtiene productos de la naturaleza, como la agricultura, la pesca o la ganadería.",
       "dificultad": "media"
     },
@@ -125,16 +132,42 @@
         "D": "La población no cambia nunca"
       },
       "respuesta_correcta": "B",
-      "sinonimos_aceptados": ["aumenta", "la población aumenta", "la b", "opción b"],
       "explicacion": "Si hay más nacimientos que fallecimientos, la población aumenta.",
       "dificultad": "facil"
+    },
+    {
+      "id": "cono_t08_test_006",
+      "tipo": "test",
+      "pregunta": "¿Qué operación usamos para calcular el crecimiento natural?",
+      "opciones": {
+        "A": "Nacimientos menos defunciones",
+        "B": "Inmigrantes menos emigrantes",
+        "C": "Trabajadores menos estudiantes",
+        "D": "Jóvenes menos ancianos"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El crecimiento natural se calcula restando las defunciones a los nacimientos.",
+      "dificultad": "dificil"
+    },
+    {
+      "id": "cono_t08_test_007",
+      "tipo": "test",
+      "pregunta": "¿Qué operación usamos para calcular el crecimiento real de la población?",
+      "opciones": {
+        "A": "Nacimientos menos defunciones",
+        "B": "Nacimientos menos defunciones, más inmigrantes, menos emigrantes",
+        "C": "Solo el número de nacimientos",
+        "D": "Solo el número de turistas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El crecimiento real tiene en cuenta nacimientos, defunciones, inmigrantes y emigrantes.",
+      "dificultad": "dificil"
     },
     {
       "id": "cono_t08_corta_001",
       "tipo": "corta",
       "pregunta": "¿Cómo se llama el conjunto de personas que vive en un territorio?",
-      "respuesta_correcta": "población",
-      "sinonimos_aceptados": ["poblacion", "la población"],
+      "respuestas_aceptadas": ["población", "poblacion", "la población"],
       "explicacion": "Eso es. La población es el conjunto de personas que vive en un territorio.",
       "dificultad": "facil"
     },
@@ -142,8 +175,7 @@
       "id": "cono_t08_corta_002",
       "tipo": "corta",
       "pregunta": "¿Cómo se llama el número de personas que nacen en un lugar durante un tiempo?",
-      "respuesta_correcta": "natalidad",
-      "sinonimos_aceptados": ["la natalidad", "nacimientos"],
+      "respuestas_aceptadas": ["natalidad", "la natalidad", "nacimientos"],
       "explicacion": "Correcto. La natalidad indica cuántas personas nacen.",
       "dificultad": "facil"
     },
@@ -151,8 +183,7 @@
       "id": "cono_t08_corta_003",
       "tipo": "corta",
       "pregunta": "¿Cómo se llama la llegada de personas a un lugar para vivir en él?",
-      "respuesta_correcta": "inmigración",
-      "sinonimos_aceptados": ["inmigracion", "la inmigración", "llegada de personas"],
+      "respuestas_aceptadas": ["inmigración", "inmigracion", "la inmigración", "llegada de personas"],
       "explicacion": "Muy bien. La inmigración es la llegada de personas a un lugar.",
       "dificultad": "media"
     },
@@ -160,8 +191,7 @@
       "id": "cono_t08_corta_004",
       "tipo": "corta",
       "pregunta": "¿Cómo se llama la salida de personas de un lugar para vivir en otro?",
-      "respuesta_correcta": "emigración",
-      "sinonimos_aceptados": ["emigracion", "la emigración", "salida de personas"],
+      "respuestas_aceptadas": ["emigración", "emigracion", "la emigración", "salida de personas"],
       "explicacion": "Exacto. La emigración es la salida de personas de un lugar.",
       "dificultad": "media"
     },
@@ -169,9 +199,16 @@
       "id": "cono_t08_corta_005",
       "tipo": "corta",
       "pregunta": "¿Qué sector incluye el comercio, el transporte y el turismo?",
-      "respuesta_correcta": "sector terciario",
-      "sinonimos_aceptados": ["terciario", "el sector terciario", "servicios", "sector servicios"],
+      "respuestas_aceptadas": ["sector terciario", "terciario", "el sector terciario", "servicios", "sector servicios"],
       "explicacion": "Correcto. El sector terciario agrupa los servicios.",
+      "dificultad": "media"
+    },
+    {
+      "id": "cono_t08_corta_006",
+      "tipo": "corta",
+      "pregunta": "¿Qué comunidad autónoma es la más poblada de España?",
+      "respuestas_aceptadas": ["Andalucía", "andalucia", "la andalucía"],
+      "explicacion": "Correcto. Andalucía es la comunidad autónoma más poblada de España.",
       "dificultad": "media"
     },
     {
@@ -180,7 +217,7 @@
       "letra_rosco": "A",
       "pista": "Con la A: grupo de población formado por personas entre 17 y 65 años.",
       "respuesta_correcta": "adulta",
-      "sinonimos_aceptados": ["adultos", "población adulta", "adulta"],
+      "sinonimos_aceptados": ["adultos", "población adulta"],
       "explicacion": "La población adulta está formada por personas entre 17 y 65 años.",
       "dificultad": "media"
     },
@@ -253,63 +290,13 @@
       "sinonimos_aceptados": ["poblacion", "la población"],
       "explicacion": "La población es el conjunto de personas que habita en un territorio.",
       "dificultad": "facil"
-    },
-    {
-      "id": "cono_t08_extra_001",
-      "tipo": "vf",
-      "pregunta": "La población joven está formada por personas menores de 16 años.",
-      "respuesta_correcta": true,
-      "sinonimos_aceptados": ["verdadero", "sí", "correcto"],
-      "explicacion": "Correcto. En este tema, la población joven son los menores de 16 años.",
-      "dificultad": "media"
-    },
-    {
-      "id": "cono_t08_extra_002",
-      "tipo": "vf",
-      "pregunta": "La población anciana está formada por personas mayores de 65 años.",
-      "respuesta_correcta": true,
-      "sinonimos_aceptados": ["verdadero", "sí", "correcto"],
-      "explicacion": "Muy bien. Las personas mayores de 65 años forman la población anciana.",
-      "dificultad": "media"
-    },
-    {
-      "id": "cono_t08_extra_003",
-      "tipo": "test",
-      "pregunta": "¿Qué operación usamos para calcular el crecimiento natural?",
-      "opciones": {
-        "A": "Nacimientos menos defunciones",
-        "B": "Inmigrantes menos emigrantes",
-        "C": "Trabajadores menos estudiantes",
-        "D": "Jóvenes menos ancianos"
-      },
-      "respuesta_correcta": "A",
-      "sinonimos_aceptados": ["nacimientos menos defunciones", "nacimientos menos fallecimientos", "la a", "opción a"],
-      "explicacion": "El crecimiento natural se calcula restando las defunciones a los nacimientos.",
-      "dificultad": "dificil"
-    },
-    {
-      "id": "cono_t08_extra_004",
-      "tipo": "test",
-      "pregunta": "¿Qué operación usamos para calcular el crecimiento real de la población?",
-      "opciones": {
-        "A": "Nacimientos menos defunciones",
-        "B": "Nacimientos menos defunciones, más inmigrantes, menos emigrantes",
-        "C": "Solo el número de nacimientos",
-        "D": "Solo el número de turistas"
-      },
-      "respuesta_correcta": "B",
-      "sinonimos_aceptados": ["la b", "opción b", "nacimientos menos defunciones más inmigrantes menos emigrantes"],
-      "explicacion": "El crecimiento real tiene en cuenta nacimientos, defunciones, inmigrantes y emigrantes.",
-      "dificultad": "dificil"
-    },
-    {
-      "id": "cono_t08_extra_005",
-      "tipo": "corta",
-      "pregunta": "¿Qué comunidad autónoma es la más poblada de España?",
-      "respuesta_correcta": "Andalucía",
-      "sinonimos_aceptados": ["andalucia", "Andalucía"],
-      "explicacion": "Correcto. Andalucía es la comunidad autónoma más poblada de España.",
-      "dificultad": "media"
     }
+  ],
+  "repaso_rapido_sugerido": [
+    "cono_t08_vf_003",
+    "cono_t08_test_001",
+    "cono_t08_corta_003",
+    "cono_t08_rosco_003",
+    "cono_t08_test_005"
   ]
 }
