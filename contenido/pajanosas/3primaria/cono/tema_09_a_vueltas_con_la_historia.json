@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "colegio_id": "pajanosas",
+    "curso": "3primaria",
+    "asignatura": "cono",
+    "tema": "tema_09_a_vueltas_con_la_historia",
+    "titulo": "A vueltas con la historia",
+    "idioma": "es",
+    "version": "2026-05-10"
+  },
+  "preguntas": [
+    {
+      "id": "historia_09_vf_001",
+      "tipo": "vf",
+      "pregunta": "La historia estudia los acontecimientos que ocurrieron en el pasado.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La historia nos ayuda a conocer hechos importantes del pasado.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_vf_002",
+      "tipo": "vf",
+      "pregunta": "El presente es lo que todavía no ha ocurrido.",
+      "respuesta_correcta": false,
+      "explicacion": "No. El presente es lo que ocurre ahora. Lo que todavía no ha ocurrido es el futuro.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_vf_003",
+      "tipo": "vf",
+      "pregunta": "Una década tiene diez años.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. Una década son diez años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_vf_004",
+      "tipo": "vf",
+      "pregunta": "Un siglo tiene mil años.",
+      "respuesta_correcta": false,
+      "explicacion": "No. Un siglo tiene cien años. Mil años forman un milenio.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_vf_005",
+      "tipo": "vf",
+      "pregunta": "La Prehistoria termina con la invención de la escritura.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La escritura marca el final de la Prehistoria y el inicio de la Edad Antigua.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_vf_006",
+      "tipo": "vf",
+      "pregunta": "Los museos conservan objetos importantes del pasado.",
+      "respuesta_correcta": true,
+      "explicacion": "Exacto. Los museos conservan y muestran objetos que ayudan a conocer la historia.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_vf_007",
+      "tipo": "vf",
+      "pregunta": "Las monedas y las herramientas son fuentes históricas materiales.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. Son restos materiales que nos dan información del pasado.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_vf_008",
+      "tipo": "vf",
+      "pregunta": "La Edad Contemporánea llega hasta la actualidad.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La Edad Contemporánea empezó en 1789 y llega hasta hoy.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_001",
+      "tipo": "test",
+      "pregunta": "¿Qué estudia la historia?",
+      "opciones": {
+        "A": "Los animales actuales",
+        "B": "Los acontecimientos del pasado",
+        "C": "Solo los planetas",
+        "D": "Las operaciones matemáticas"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La historia estudia los acontecimientos que ocurrieron en el pasado.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_test_002",
+      "tipo": "test",
+      "pregunta": "¿Qué usamos para ordenar los hechos históricos?",
+      "opciones": {
+        "A": "Una línea del tiempo",
+        "B": "Una calculadora",
+        "C": "Un microscopio",
+        "D": "Un termómetro"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La línea del tiempo nos ayuda a ordenar los hechos desde los más antiguos hasta los más recientes.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_test_003",
+      "tipo": "test",
+      "pregunta": "¿Cuántos años tiene un lustro?",
+      "opciones": {
+        "A": "Cinco años",
+        "B": "Diez años",
+        "C": "Cien años",
+        "D": "Mil años"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Un lustro tiene cinco años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_test_004",
+      "tipo": "test",
+      "pregunta": "¿Qué edad de la historia empieza con la invención de la escritura?",
+      "opciones": {
+        "A": "Prehistoria",
+        "B": "Edad Antigua",
+        "C": "Edad Media",
+        "D": "Edad Contemporánea"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Edad Antigua comienza con la invención de la escritura.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_005",
+      "tipo": "test",
+      "pregunta": "¿Qué hecho marca el comienzo de la Edad Media?",
+      "opciones": {
+        "A": "La caída del imperio romano",
+        "B": "La Revolución Francesa",
+        "C": "El descubrimiento de América",
+        "D": "La llegada a la Luna"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La Edad Media comienza en el año 476, con la caída del imperio romano.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_006",
+      "tipo": "test",
+      "pregunta": "¿Qué hecho marca el comienzo de la Edad Moderna?",
+      "opciones": {
+        "A": "La aparición de los primeros seres humanos",
+        "B": "El descubrimiento de América",
+        "C": "La caída del imperio romano",
+        "D": "La Revolución Francesa"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "La Edad Moderna comienza en 1492, con el descubrimiento de América.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_007",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos es una fuente escrita?",
+      "opciones": {
+        "A": "Una carta",
+        "B": "Una moneda",
+        "C": "Una herramienta",
+        "D": "Una canción"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las cartas son fuentes escritas porque usan la escritura para transmitir información.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_008",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos es un monumento arquitectónico?",
+      "opciones": {
+        "A": "Una catedral",
+        "B": "Una moneda",
+        "C": "Una canción",
+        "D": "Una entrevista"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las catedrales son monumentos arquitectónicos porque son construcciones con valor artístico o histórico.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_test_009",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos monumentos está en Granada?",
+      "opciones": {
+        "A": "La Alhambra",
+        "B": "La Sagrada Familia",
+        "C": "La Fuente de Cibeles",
+        "D": "El Alcázar de Segovia"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La Alhambra está en Granada y es un monumento muy importante de Andalucía.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_010",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos restos pertenece a la Prehistoria en Andalucía?",
+      "opciones": {
+        "A": "El Dolmen de Gorafe",
+        "B": "La Casa Colón",
+        "C": "La Catedral de Jaén",
+        "D": "El tren de vapor"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El Dolmen de Gorafe, en Granada, es un resto de la Prehistoria.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_011",
+      "tipo": "test",
+      "pregunta": "¿Qué fuente histórica es oral?",
+      "opciones": {
+        "A": "Una canción",
+        "B": "Un mapa",
+        "C": "Una moneda",
+        "D": "Una carta"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las canciones, leyendas y entrevistas son fuentes orales.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_test_012",
+      "tipo": "test",
+      "pregunta": "¿Qué edad comienza en 1789 con la Revolución Francesa?",
+      "opciones": {
+        "A": "Edad Antigua",
+        "B": "Edad Media",
+        "C": "Edad Moderna",
+        "D": "Edad Contemporánea"
+      },
+      "respuesta_correcta": "D",
+      "explicacion": "La Edad Contemporánea comienza en 1789 con la Revolución Francesa.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_corta_001",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la ciencia que estudia los acontecimientos del pasado?",
+      "respuestas_aceptadas": ["historia", "la historia"],
+      "explicacion": "La historia estudia los acontecimientos importantes del pasado.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_corta_002",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama lo que ocurrió antes de ahora?",
+      "respuestas_aceptadas": ["pasado", "el pasado"],
+      "explicacion": "El pasado es lo que ya ha ocurrido.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_corta_003",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama lo que ocurre ahora?",
+      "respuestas_aceptadas": ["presente", "el presente", "ahora"],
+      "explicacion": "El presente es lo que está ocurriendo ahora.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_corta_004",
+      "tipo": "corta",
+      "pregunta": "¿Cuántos años tiene un siglo?",
+      "respuestas_aceptadas": ["cien", "cien años", "100", "100 años"],
+      "explicacion": "Un siglo tiene cien años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_corta_005",
+      "tipo": "corta",
+      "pregunta": "¿Qué invento marca el final de la Prehistoria?",
+      "respuestas_aceptadas": ["la escritura", "escritura", "invención de la escritura", "la invención de la escritura"],
+      "explicacion": "La Prehistoria termina cuando aparece la escritura.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_corta_006",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el lugar donde se conservan y muestran objetos del pasado?",
+      "respuestas_aceptadas": ["museo", "un museo", "los museos"],
+      "explicacion": "Los museos conservan objetos que nos ayudan a conocer la historia.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_corta_007",
+      "tipo": "corta",
+      "pregunta": "¿Qué edad de la historia llega hasta la actualidad?",
+      "respuestas_aceptadas": ["edad contemporánea", "la edad contemporánea", "contemporánea", "contemporanea"],
+      "explicacion": "La Edad Contemporánea empezó en 1789 y llega hasta nuestros días.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_completar_001",
+      "tipo": "completar",
+      "frase": "La historia estudia los acontecimientos del...",
+      "respuesta_correcta": "pasado",
+      "sinonimos_aceptados": ["el pasado"],
+      "explicacion": "La historia estudia los hechos que ya ocurrieron.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_completar_002",
+      "tipo": "completar",
+      "frase": "Lo que ocurre ahora se llama...",
+      "respuesta_correcta": "presente",
+      "sinonimos_aceptados": ["el presente", "ahora"],
+      "explicacion": "El presente es lo que ocurre ahora.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_completar_003",
+      "tipo": "completar",
+      "frase": "Una década tiene...",
+      "respuesta_correcta": "diez años",
+      "sinonimos_aceptados": ["diez", "10", "10 años"],
+      "explicacion": "Una década son diez años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_completar_004",
+      "tipo": "completar",
+      "frase": "Un milenio tiene...",
+      "respuesta_correcta": "mil años",
+      "sinonimos_aceptados": ["mil", "1000", "1000 años"],
+      "explicacion": "Un milenio tiene mil años.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_completar_005",
+      "tipo": "completar",
+      "frase": "La Edad Media comienza con la caída del imperio...",
+      "respuesta_correcta": "romano",
+      "sinonimos_aceptados": ["imperio romano"],
+      "explicacion": "La Edad Media comienza en el año 476 con la caída del imperio romano.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_completar_006",
+      "tipo": "completar",
+      "frase": "Las fuentes históricas pueden ser escritas o...",
+      "respuesta_correcta": "no escritas",
+      "sinonimos_aceptados": ["fuentes no escritas"],
+      "explicacion": "Las fuentes históricas pueden ser escritas o no escritas.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_completar_007",
+      "tipo": "completar",
+      "frase": "Los museos conservan objetos importantes del...",
+      "respuesta_correcta": "pasado",
+      "sinonimos_aceptados": ["el pasado"],
+      "explicacion": "Los museos nos ayudan a conocer el pasado.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_rosco_001",
+      "tipo": "rosco",
+      "letra_rosco": "A",
+      "pista": "Con la A: edad de la historia que comienza con la invención de la escritura.",
+      "respuesta_correcta": "antigua",
+      "sinonimos_aceptados": ["edad antigua", "la edad antigua"],
+      "explicacion": "La Edad Antigua comienza con la invención de la escritura.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_002",
+      "tipo": "rosco",
+      "letra_rosco": "C",
+      "pista": "Con la C: edad de la historia que llega hasta la actualidad.",
+      "respuesta_correcta": "contemporánea",
+      "sinonimos_aceptados": ["edad contemporánea", "la edad contemporánea", "contemporanea"],
+      "explicacion": "La Edad Contemporánea llega hasta nuestros días.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_003",
+      "tipo": "rosco",
+      "letra_rosco": "D",
+      "pista": "Con la D: unidad de tiempo que tiene diez años.",
+      "respuesta_correcta": "década",
+      "sinonimos_aceptados": ["decada", "una década"],
+      "explicacion": "Una década son diez años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_rosco_004",
+      "tipo": "rosco",
+      "letra_rosco": "E",
+      "pista": "Con la E: nombre que damos a cada gran periodo en que dividimos la historia.",
+      "respuesta_correcta": "edad",
+      "sinonimos_aceptados": ["edades", "edad histórica"],
+      "explicacion": "La historia se divide en edades para estudiarla mejor.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_005",
+      "tipo": "rosco",
+      "letra_rosco": "F",
+      "pista": "Con la F: elemento que nos da información sobre hechos del pasado.",
+      "respuesta_correcta": "fuente",
+      "sinonimos_aceptados": ["fuente histórica", "fuentes históricas"],
+      "explicacion": "Las fuentes históricas ayudan a conocer el pasado.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_006",
+      "tipo": "rosco",
+      "letra_rosco": "H",
+      "pista": "Con la H: ciencia que estudia los acontecimientos del pasado.",
+      "respuesta_correcta": "historia",
+      "sinonimos_aceptados": ["la historia"],
+      "explicacion": "La historia estudia hechos importantes del pasado.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_rosco_007",
+      "tipo": "rosco",
+      "letra_rosco": "L",
+      "pista": "Con la L: unidad de tiempo que tiene cinco años.",
+      "respuesta_correcta": "lustro",
+      "sinonimos_aceptados": ["un lustro"],
+      "explicacion": "Un lustro tiene cinco años.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_rosco_008",
+      "tipo": "rosco",
+      "letra_rosco": "M",
+      "pista": "Con la M: lugar donde se conservan y muestran objetos del pasado.",
+      "respuesta_correcta": "museo",
+      "sinonimos_aceptados": ["un museo", "los museos"],
+      "explicacion": "Los museos conservan objetos importantes para conocer la historia.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "historia_09_rosco_009",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: primera gran edad de la historia, anterior a la escritura.",
+      "respuesta_correcta": "prehistoria",
+      "sinonimos_aceptados": ["la prehistoria"],
+      "explicacion": "La Prehistoria es la etapa anterior a la invención de la escritura.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_010",
+      "tipo": "rosco",
+      "letra_rosco": "R",
+      "pista": "Con la R: imperio cuya caída marca el inicio de la Edad Media.",
+      "respuesta_correcta": "romano",
+      "sinonimos_aceptados": ["imperio romano", "el imperio romano"],
+      "explicacion": "La Edad Media comienza con la caída del imperio romano.",
+      "dificultad": "media"
+    },
+    {
+      "id": "historia_09_rosco_011",
+      "tipo": "rosco",
+      "letra_rosco": "S",
+      "pista": "Con la S: unidad de tiempo que tiene cien años.",
+      "respuesta_correcta": "siglo",
+      "sinonimos_aceptados": ["un siglo"],
+      "explicacion": "Un siglo tiene cien años.",
+      "dificultad": "facil"
+    }
+  ],
+  "repaso_rapido_sugerido": [
+    "historia_09_vf_001",
+    "historia_09_test_002",
+    "historia_09_corta_004",
+    "historia_09_completar_005",
+    "historia_09_test_012"
+  ]
+}
