@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "5primaria",
+    "asignatura": "ingles",
+    "tema": "irregular_verbs_5a",
+    "titulo": "Irregular Verbs 5ºA",
+    "idioma": "es",
+    "version": "2026-05-10",
+    "descripcion": "Dataset tipo calculadora/entrenador oral para repasar infinitivo, past simple, past participle y significado de verbos irregulares.",
+    "fuente": "Lista de verbos irregulares Claret Madrid 5ºA",
+    "ruta_recomendada_github": "contenido/claret/5primaria/ingles/irregular_verbs_5a.json"
+  },
+  "modo": {
+    "tipo": "entrenador_irregulares",
+    "nombre": "Entrenador de verbos irregulares",
+    "descripcion_voz": "Cosmín pregunta formas verbales como si fueran tablas de multiplicar.",
+    "objetivo": "Memorizar los verbos irregulares relacionando infinitive, past simple, past participle y meaning.",
+    "instrucciones_voz": [
+      "Escucha el verbo o el significado.",
+      "Responde solo con la forma que te pide Cosmín.",
+      "Si Cosmín te pide las tres formas, di infinitivo, pasado y participio.",
+      "Puedes decir repetir si necesitas escuchar otra vez la pregunta."
+    ],
+    "modos_disponibles": [
+      {
+        "id": "past_simple",
+        "nombre": "Infinitivo a past simple",
+        "plantilla_pregunta": "{infinitive}. Dime el past simple.",
+        "campo_respuesta": "past_simple"
+      },
+      {
+        "id": "past_participle",
+        "nombre": "Infinitivo a past participle",
+        "plantilla_pregunta": "{infinitive}. Dime el past participle.",
+        "campo_respuesta": "past_participle"
+      },
+      {
+        "id": "meaning",
+        "nombre": "Inglés a significado",
+        "plantilla_pregunta": "What does {infinitive} mean?",
+        "campo_respuesta": "meaning"
+      },
+      {
+        "id": "reverse_meaning",
+        "nombre": "Significado a infinitivo",
+        "plantilla_pregunta": "¿Cómo se dice {meaning} en inglés?",
+        "campo_respuesta": "infinitive"
+      },
+      {
+        "id": "three_forms",
+        "nombre": "Tres formas",
+        "plantilla_pregunta": "{infinitive}. Dime las tres formas.",
+        "campo_respuesta": "forms"
+      },
+      {
+        "id": "mixed",
+        "nombre": "Modo mixto",
+        "descripcion": "Cosmín mezcla aleatoriamente preguntas de past simple, past participle, significado, significado inverso y tres formas."
+      }
+    ],
+    "numero_preguntas_por_sesion": 10,
+    "feedback_correcto": [
+      "Correcto.",
+      "Muy bien.",
+      "Perfecto.",
+      "Genial."
+    ],
+    "feedback_incorrecto": [
+      "Casi.",
+      "No exactamente.",
+      "Vamos a repasarlo.",
+      "Esa no era."
+    ]
+  },
+  "verbos": [
+    {
+      "id": "irreg_001",
+      "infinitive": "be",
+      "past_simple": [
+        "was",
+        "were"
+      ],
+      "past_participle": "been",
+      "meaning": [
+        "ser",
+        "estar"
+      ],
+      "forms": "be, was or were, been",
+      "pronunciacion_aproximada": "bi, guos o güer, bin",
+      "dificultad": "media",
+      "grupo": "basico",
+      "explicacion": "Be tiene dos formas en pasado: was para I, he, she, it; y were para you, we, they."
+    },
+    {
+      "id": "irreg_002",
+      "infinitive": "become",
+      "past_simple": "became",
+      "past_participle": "become",
+      "meaning": [
+        "llegar a ser",
+        "convertirse en"
+      ],
+      "forms": "become, became, become",
+      "pronunciacion_aproximada": "bicom, bikeim, bicom",
+      "dificultad": "media",
+      "grupo": "cambio",
+      "explicacion": "Become significa llegar a ser o convertirse en."
+    },
+    {
+      "id": "irreg_003",
+      "infinitive": "begin",
+      "past_simple": "began",
+      "past_participle": "begun",
+      "meaning": [
+        "empezar",
+        "comenzar"
+      ],
+      "forms": "begin, began, begun",
+      "pronunciacion_aproximada": "biguin, bigan, bigan",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Begin, began, begun significa empezar."
+    },
+    {
+      "id": "irreg_004",
+      "infinitive": "break",
+      "past_simple": "broke",
+      "past_participle": "broken",
+      "meaning": [
+        "romper"
+      ],
+      "forms": "break, broke, broken",
+      "pronunciacion_aproximada": "breik, brouk, brouken",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Break significa romper."
+    },
+    {
+      "id": "irreg_005",
+      "infinitive": "bring",
+      "past_simple": "brought",
+      "past_participle": "brought",
+      "meaning": [
+        "traer"
+      ],
+      "forms": "bring, brought, brought",
+      "pronunciacion_aproximada": "bring, brot, brot",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Bring, brought, brought significa traer."
+    },
+    {
+      "id": "irreg_006",
+      "infinitive": "buy",
+      "past_simple": "bought",
+      "past_participle": "bought",
+      "meaning": [
+        "comprar"
+      ],
+      "forms": "buy, bought, bought",
+      "pronunciacion_aproximada": "bai, bot, bot",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Buy, bought, bought significa comprar."
+    },
+    {
+      "id": "irreg_007",
+      "infinitive": "come",
+      "past_simple": "came",
+      "past_participle": "come",
+      "meaning": [
+        "venir"
+      ],
+      "forms": "come, came, come",
+      "pronunciacion_aproximada": "cam, keim, cam",
+      "dificultad": "facil",
+      "grupo": "movimiento",
+      "explicacion": "Come, came, come significa venir."
+    },
+    {
+      "id": "irreg_008",
+      "infinitive": "do",
+      "past_simple": "did",
+      "past_participle": "done",
+      "meaning": [
+        "hacer"
+      ],
+      "forms": "do, did, done",
+      "pronunciacion_aproximada": "du, did, dan",
+      "dificultad": "facil",
+      "grupo": "basico",
+      "explicacion": "Do, did, done significa hacer."
+    },
+    {
+      "id": "irreg_009",
+      "infinitive": "draw",
+      "past_simple": "drew",
+      "past_participle": "drawn",
+      "meaning": [
+        "dibujar"
+      ],
+      "forms": "draw, drew, drawn",
+      "pronunciacion_aproximada": "dro, dru, dron",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Draw significa dibujar."
+    },
+    {
+      "id": "irreg_010",
+      "infinitive": "drink",
+      "past_simple": "drank",
+      "past_participle": "drunk",
+      "meaning": [
+        "beber"
+      ],
+      "forms": "drink, drank, drunk",
+      "pronunciacion_aproximada": "drink, drank, drank",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Drink, drank, drunk significa beber."
+    },
+    {
+      "id": "irreg_011",
+      "infinitive": "drive",
+      "past_simple": "drove",
+      "past_participle": "driven",
+      "meaning": [
+        "conducir"
+      ],
+      "forms": "drive, drove, driven",
+      "pronunciacion_aproximada": "draiv, drouv, driven",
+      "dificultad": "media",
+      "grupo": "movimiento",
+      "explicacion": "Drive significa conducir."
+    },
+    {
+      "id": "irreg_012",
+      "infinitive": "eat",
+      "past_simple": "ate",
+      "past_participle": "eaten",
+      "meaning": [
+        "comer"
+      ],
+      "forms": "eat, ate, eaten",
+      "pronunciacion_aproximada": "it, eit, iten",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Eat, ate, eaten significa comer."
+    },
+    {
+      "id": "irreg_013",
+      "infinitive": "find",
+      "past_simple": "found",
+      "past_participle": "found",
+      "meaning": [
+        "encontrar"
+      ],
+      "forms": "find, found, found",
+      "pronunciacion_aproximada": "faind, faund, faund",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Find, found, found significa encontrar."
+    },
+    {
+      "id": "irreg_014",
+      "infinitive": "forget",
+      "past_simple": "forgot",
+      "past_participle": "forgotten",
+      "meaning": [
+        "olvidar"
+      ],
+      "forms": "forget, forgot, forgotten",
+      "pronunciacion_aproximada": "forget, forgot, forgotten",
+      "dificultad": "media",
+      "grupo": "mente",
+      "explicacion": "Forget significa olvidar."
+    },
+    {
+      "id": "irreg_015",
+      "infinitive": "give",
+      "past_simple": "gave",
+      "past_participle": "given",
+      "meaning": [
+        "dar"
+      ],
+      "forms": "give, gave, given",
+      "pronunciacion_aproximada": "guiv, gueiv, guiven",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Give, gave, given significa dar."
+    },
+    {
+      "id": "irreg_016",
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "meaning": [
+        "ir"
+      ],
+      "forms": "go, went, gone",
+      "pronunciacion_aproximada": "gou, went, gon",
+      "dificultad": "facil",
+      "grupo": "movimiento",
+      "explicacion": "Go es especial: su pasado simple es went."
+    },
+    {
+      "id": "irreg_017",
+      "infinitive": "have",
+      "past_simple": "had",
+      "past_participle": "had",
+      "meaning": [
+        "tener"
+      ],
+      "forms": "have, had, had",
+      "pronunciacion_aproximada": "hav, had, had",
+      "dificultad": "facil",
+      "grupo": "basico",
+      "explicacion": "Have, had, had significa tener."
+    },
+    {
+      "id": "irreg_018",
+      "infinitive": "know",
+      "past_simple": "knew",
+      "past_participle": "known",
+      "meaning": [
+        "conocer",
+        "saber"
+      ],
+      "forms": "know, knew, known",
+      "pronunciacion_aproximada": "nou, niu, noun",
+      "dificultad": "media",
+      "grupo": "mente",
+      "explicacion": "Know, knew, known significa conocer o saber."
+    },
+    {
+      "id": "irreg_019",
+      "infinitive": "lose",
+      "past_simple": "lost",
+      "past_participle": "lost",
+      "meaning": [
+        "perder"
+      ],
+      "forms": "lose, lost, lost",
+      "pronunciacion_aproximada": "luz, lost, lost",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Lose, lost, lost significa perder."
+    },
+    {
+      "id": "irreg_020",
+      "infinitive": "make",
+      "past_simple": "made",
+      "past_participle": "made",
+      "meaning": [
+        "hacer",
+        "fabricar"
+      ],
+      "forms": "make, made, made",
+      "pronunciacion_aproximada": "meik, meid, meid",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Make, made, made significa hacer o fabricar."
+    },
+    {
+      "id": "irreg_021",
+      "infinitive": "meet",
+      "past_simple": "met",
+      "past_participle": "met",
+      "meaning": [
+        "encontrarse con alguien",
+        "conocer a alguien"
+      ],
+      "forms": "meet, met, met",
+      "pronunciacion_aproximada": "mit, met, met",
+      "dificultad": "facil",
+      "grupo": "social",
+      "explicacion": "Meet, met, met significa encontrarse con alguien."
+    },
+    {
+      "id": "irreg_022",
+      "infinitive": "read",
+      "past_simple": "read",
+      "past_participle": "read",
+      "meaning": [
+        "leer"
+      ],
+      "forms": "read, read, read",
+      "pronunciacion_aproximada": "rid, red, red",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Read se escribe igual en las tres formas, pero en pasado se pronuncia red."
+    },
+    {
+      "id": "irreg_023",
+      "infinitive": "ride",
+      "past_simple": "rode",
+      "past_participle": "ridden",
+      "meaning": [
+        "montar",
+        "montar en bici",
+        "montar a caballo"
+      ],
+      "forms": "ride, rode, ridden",
+      "pronunciacion_aproximada": "raid, roud, riden",
+      "dificultad": "media",
+      "grupo": "movimiento",
+      "explicacion": "Ride significa montar, por ejemplo en bici o a caballo."
+    },
+    {
+      "id": "irreg_024",
+      "infinitive": "run",
+      "past_simple": "ran",
+      "past_participle": "run",
+      "meaning": [
+        "correr"
+      ],
+      "forms": "run, ran, run",
+      "pronunciacion_aproximada": "ran, ran, ran",
+      "dificultad": "facil",
+      "grupo": "movimiento",
+      "explicacion": "Run, ran, run significa correr."
+    },
+    {
+      "id": "irreg_025",
+      "infinitive": "say",
+      "past_simple": "said",
+      "past_participle": "said",
+      "meaning": [
+        "decir"
+      ],
+      "forms": "say, said, said",
+      "pronunciacion_aproximada": "sei, sed, sed",
+      "dificultad": "facil",
+      "grupo": "comunicacion",
+      "explicacion": "Say, said, said significa decir."
+    },
+    {
+      "id": "irreg_026",
+      "infinitive": "see",
+      "past_simple": "saw",
+      "past_participle": "seen",
+      "meaning": [
+        "ver"
+      ],
+      "forms": "see, saw, seen",
+      "pronunciacion_aproximada": "si, so, sin",
+      "dificultad": "facil",
+      "grupo": "percepcion",
+      "explicacion": "See, saw, seen significa ver."
+    },
+    {
+      "id": "irreg_027",
+      "infinitive": "sell",
+      "past_simple": "sold",
+      "past_participle": "sold",
+      "meaning": [
+        "vender"
+      ],
+      "forms": "sell, sold, sold",
+      "pronunciacion_aproximada": "sel, sould, sould",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Sell, sold, sold significa vender."
+    },
+    {
+      "id": "irreg_028",
+      "infinitive": "sing",
+      "past_simple": "sang",
+      "past_participle": "sung",
+      "meaning": [
+        "cantar"
+      ],
+      "forms": "sing, sang, sung",
+      "pronunciacion_aproximada": "sing, sang, sang",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Sing, sang, sung significa cantar."
+    },
+    {
+      "id": "irreg_029",
+      "infinitive": "sit",
+      "past_simple": "sat",
+      "past_participle": "sat",
+      "meaning": [
+        "sentarse"
+      ],
+      "forms": "sit, sat, sat",
+      "pronunciacion_aproximada": "sit, sat, sat",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Sit, sat, sat significa sentarse."
+    },
+    {
+      "id": "irreg_030",
+      "infinitive": "swim",
+      "past_simple": "swam",
+      "past_participle": "swum",
+      "meaning": [
+        "nadar"
+      ],
+      "forms": "swim, swam, swum",
+      "pronunciacion_aproximada": "suim, suam, suam",
+      "dificultad": "media",
+      "grupo": "movimiento",
+      "explicacion": "Swim, swam, swum significa nadar."
+    },
+    {
+      "id": "irreg_031",
+      "infinitive": "take",
+      "past_simple": "took",
+      "past_participle": "taken",
+      "meaning": [
+        "tomar",
+        "agarrar",
+        "coger"
+      ],
+      "forms": "take, took, taken",
+      "pronunciacion_aproximada": "teik, tuk, teiken",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Take, took, taken significa tomar, agarrar o coger."
+    },
+    {
+      "id": "irreg_032",
+      "infinitive": "teach",
+      "past_simple": "taught",
+      "past_participle": "taught",
+      "meaning": [
+        "enseñar"
+      ],
+      "forms": "teach, taught, taught",
+      "pronunciacion_aproximada": "tich, tot, tot",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Teach, taught, taught significa enseñar."
+    },
+    {
+      "id": "irreg_033",
+      "infinitive": "think",
+      "past_simple": "thought",
+      "past_participle": "thought",
+      "meaning": [
+        "pensar"
+      ],
+      "forms": "think, thought, thought",
+      "pronunciacion_aproximada": "zink, zot, zot",
+      "dificultad": "media",
+      "grupo": "mente",
+      "explicacion": "Think, thought, thought significa pensar."
+    },
+    {
+      "id": "irreg_034",
+      "infinitive": "win",
+      "past_simple": "won",
+      "past_participle": "won",
+      "meaning": [
+        "ganar"
+      ],
+      "forms": "win, won, won",
+      "pronunciacion_aproximada": "uin, uan, uan",
+      "dificultad": "facil",
+      "grupo": "acciones",
+      "explicacion": "Win, won, won significa ganar."
+    },
+    {
+      "id": "irreg_035",
+      "infinitive": "write",
+      "past_simple": "wrote",
+      "past_participle": "written",
+      "meaning": [
+        "escribir"
+      ],
+      "forms": "write, wrote, written",
+      "pronunciacion_aproximada": "rait, rout, riten",
+      "dificultad": "media",
+      "grupo": "acciones",
+      "explicacion": "Write, wrote, written significa escribir."
+    }
+  ],
+  "sesiones_sugeridas": [
+    {
+      "id": "sesion_01_basica",
+      "nombre": "Calentamiento",
+      "modos": [
+        "past_simple",
+        "meaning"
+      ],
+      "verbos_grupo": [
+        "basico",
+        "acciones",
+        "movimiento"
+      ],
+      "numero_preguntas": 8
+    },
+    {
+      "id": "sesion_02_participios",
+      "nombre": "Participios",
+      "modos": [
+        "past_participle"
+      ],
+      "verbos_grupo": [
+        "todos"
+      ],
+      "numero_preguntas": 10
+    },
+    {
+      "id": "sesion_03_tres_formas",
+      "nombre": "Tres formas",
+      "modos": [
+        "three_forms"
+      ],
+      "verbos_grupo": [
+        "todos"
+      ],
+      "numero_preguntas": 8
+    },
+    {
+      "id": "sesion_04_mixta",
+      "nombre": "Reto mixto",
+      "modos": [
+        "mixed"
+      ],
+      "verbos_grupo": [
+        "todos"
+      ],
+      "numero_preguntas": 12
+    }
+  ]
+}
