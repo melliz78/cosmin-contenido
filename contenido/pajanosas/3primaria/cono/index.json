@@ -9,6 +9,13 @@
       "nombre": "¿Queremos cambiar de vida?",
       "fichero": "tema_08_queremos_cambiar_de_vida.json",
       "descripcion": "Población, demografía, sectores económicos"
+    },
+    {
+      "id": "tema_09",
+      "numero": 9,
+      "nombre": "A vueltas con la historia",
+      "fichero": "tema_09_a_vueltas_con_la_historia.json",
+      "descripcion": "Historia, línea del tiempo, edades históricas, fuentes históricas"
     }
   ]
 }
