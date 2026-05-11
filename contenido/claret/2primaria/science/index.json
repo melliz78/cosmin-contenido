@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "2primaria",
+    "asignatura": "science",
+    "idioma": "en",
+    "version": "2026-05-11"
+  },
+  "temas": [
+    {
+      "id": "senses_sight_hearing",
+      "titulo": "Sight and Hearing",
+      "archivo": "senses_sight_hearing.json",
+      "orden": 1,
+      "descripcion": "Parts of the eye and ear. Sense of sight and sense of hearing.",
+      "idioma": "en",
+      "activo": true
+    }
+  ]
+}
