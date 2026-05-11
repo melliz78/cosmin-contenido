@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "2primaria",
+    "asignatura": "science",
+    "tema": "senses_sight_hearing",
+    "titulo": "Sight and Hearing",
+    "idioma": "en",
+    "version": "2026-05-11"
+  },
+  "preguntas": [
+    {
+      "id": "sci_2p_senses_001",
+      "tipo": "vf",
+      "pregunta": "We use our eyes to see.",
+      "respuesta_correcta": true,
+      "explicacion": "Correct! We use our eyes for sight.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_002",
+      "tipo": "vf",
+      "pregunta": "The auditory nerve connects the eye to the brain.",
+      "respuesta_correcta": false,
+      "explicacion": "The auditory nerve connects the ear to the brain.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_003",
+      "tipo": "vf",
+      "pregunta": "The pupil is part of the eye.",
+      "respuesta_correcta": true,
+      "explicacion": "Correct! The pupil is part of the eye.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_004",
+      "tipo": "vf",
+      "pregunta": "The outer ear is inside the head.",
+      "respuesta_correcta": false,
+      "explicacion": "The outer ear is the part we can see outside.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_005",
+      "tipo": "test",
+      "pregunta": "Which part of the body do we use to hear?",
+      "opciones": {
+        "A": "Eyes",
+        "B": "Ears",
+        "C": "Hands",
+        "D": "Nose"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": ["ears", "ear", "B"],
+      "explicacion": "We use our ears to hear.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_006",
+      "tipo": "test",
+      "pregunta": "Which one is part of the eye?",
+      "opciones": {
+        "A": "Iris",
+        "B": "Outer ear",
+        "C": "Auditory nerve",
+        "D": "Middle ear"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": ["iris", "A"],
+      "explicacion": "The iris is the coloured part of the eye.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_007",
+      "tipo": "test",
+      "pregunta": "Which part carries sound information to the brain?",
+      "opciones": {
+        "A": "Pupil",
+        "B": "Eyelid",
+        "C": "Auditory nerve",
+        "D": "Eyelashes"
+      },
+      "respuesta_correcta": "C",
+      "sinonimos_aceptados": ["auditory nerve", "nerve", "C"],
+      "explicacion": "The auditory nerve sends sound information to the brain.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_008",
+      "tipo": "test",
+      "pregunta": "Which part protects the eye?",
+      "opciones": {
+        "A": "Eyelid",
+        "B": "Brain",
+        "C": "Inner ear",
+        "D": "Auditory nerve"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": ["eyelid", "eyelids", "A"],
+      "explicacion": "The eyelid helps protect the eye.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_009",
+      "tipo": "corta",
+      "pregunta": "What sense do we use with our eyes?",
+      "respuestas_aceptadas": ["sight", "see", "seeing"],
+      "explicacion": "We use sight with our eyes.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_010",
+      "tipo": "corta",
+      "pregunta": "What sense do we use with our ears?",
+      "respuestas_aceptadas": ["hearing", "hear", "listening"],
+      "explicacion": "We use hearing with our ears.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_011",
+      "tipo": "corta",
+      "pregunta": "Name one part of the eye.",
+      "respuestas_aceptadas": ["iris", "pupil", "eyelid", "eyelashes"],
+      "explicacion": "Iris, pupil, eyelid and eyelashes are parts of the eye.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_012",
+      "tipo": "corta",
+      "pregunta": "Name one part of the ear.",
+      "respuestas_aceptadas": ["outer ear", "middle ear", "inner ear", "auditory nerve"],
+      "explicacion": "Outer ear, middle ear, inner ear and auditory nerve are parts of hearing.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_013",
+      "tipo": "rosco",
+      "letra_rosco": "B",
+      "pista": "It receives information from the eyes and ears.",
+      "respuesta_correcta": "brain",
+      "sinonimos_aceptados": ["the brain"],
+      "explicacion": "The brain receives information from the senses.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_014",
+      "tipo": "rosco",
+      "letra_rosco": "E",
+      "pista": "We use it to hear sounds.",
+      "respuesta_correcta": "ear",
+      "sinonimos_aceptados": ["ears"],
+      "explicacion": "We hear with our ears.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_015",
+      "tipo": "rosco",
+      "letra_rosco": "I",
+      "pista": "The coloured part of the eye.",
+      "respuesta_correcta": "iris",
+      "sinonimos_aceptados": ["the iris"],
+      "explicacion": "The iris is the coloured part of the eye.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_016",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "A small dark circle in the eye.",
+      "respuesta_correcta": "pupil",
+      "sinonimos_aceptados": ["the pupil"],
+      "explicacion": "The pupil is the dark part in the centre of the eye.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_017",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "We use our eyes to see.",
+      "pregunta": "What do we use to see?",
+      "pregunta_es": "¿Qué usamos para ver?",
+      "respuestas_aceptadas_en": ["eyes", "our eyes", "the eyes"],
+      "respuestas_aceptadas_es": ["los ojos", "ojos"],
+      "explicacion": "Yes! We use our eyes to see.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sci_2p_senses_018",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "The auditory nerve sends information to the brain.",
+      "pregunta": "Where does the auditory nerve send information?",
+      "pregunta_es": "¿A dónde envía la información el nervio auditivo?",
+      "respuestas_aceptadas_en": ["brain", "the brain", "to the brain"],
+      "respuestas_aceptadas_es": ["al cerebro", "cerebro"],
+      "explicacion": "Correct! It sends information to the brain.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sci_2p_senses_019",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "The outer ear is the part of the ear we can see.",
+      "pregunta": "Which part of the ear can we see?",
+      "pregunta_es": "¿Qué parte del oído podemos ver?",
+      "respuestas_aceptadas_en": ["outer ear", "the outer ear"],
+      "respuestas_aceptadas_es": ["oído externo", "la parte externa", "oreja"],
+      "explicacion": "Good job! We can see the outer ear.",
+      "dificultad": "media"
+    }
+  ]
+}
