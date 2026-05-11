@@ -390,20 +390,6 @@
       "dificultad": "facil"
     },
     {
-      "id": "sociales_t04_rosco_009",
-      "tipo": "rosco",
-      "letra_rosco": "R",
-      "pista": "Con la R: derecho fundamental relacionado con poder expresar lo que pensamos.",
-      "respuesta_correcta": "opinión",
-      "sinonimos_aceptados": [
-        "opinion",
-        "derecho a la opinión",
-        "derecho a la opinion"
-      ],
-      "explicacion": "El derecho a la opinión permite expresar ideas de forma respetuosa.",
-      "dificultad": "media"
-    },
-    {
       "id": "sociales_t04_rosco_010",
       "tipo": "rosco",
       "letra_rosco": "U",
