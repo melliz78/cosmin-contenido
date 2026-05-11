@@ -1,0 +1,21 @@
+{
+  "asignatura": "sociales",
+  "colegio_id": "claret",
+  "curso": "5primaria",
+  "temas": [
+    {
+      "id": "tema_04",
+      "numero": 4,
+      "nombre": "Derechos, Constitución y organización política",
+      "fichero": "tema_04_derechos_constitucion_y_organizacion_politica.json",
+      "descripcion": "Derechos y deberes, Constitución Española, poderes del Estado, comunidades autónomas y Unión Europea"
+    },
+    {
+      "id": "tema_05",
+      "numero": 5,
+      "nombre": "Economía sostenible",
+      "fichero": "tema_05_economia_sostenible.json",
+      "descripcion": "Estado, empresas, familias, impuestos y responsabilidad social de las empresas"
+    }
+  ]
+}

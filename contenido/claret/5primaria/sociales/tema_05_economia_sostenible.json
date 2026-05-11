@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "5primaria",
+    "asignatura": "sociales",
+    "tema": "tema_05_economia_sostenible",
+    "titulo": "Economía sostenible",
+    "idioma": "es",
+    "version": "2026-05-11"
+  },
+  "preguntas": [
+    {
+      "id": "sociales_t05_vf_001",
+      "tipo": "vf",
+      "pregunta": "El trabajo consiste en las tareas que realizan las personas para producir bienes y servicios.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. El trabajo permite producir bienes y prestar servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_vf_002",
+      "tipo": "vf",
+      "pregunta": "Las empresas solo pueden ser de forma independiente.",
+      "respuesta_correcta": false,
+      "explicacion": "Falso. El trabajo puede hacerse de forma independiente o a través de una empresa.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_vf_003",
+      "tipo": "vf",
+      "pregunta": "El Estado crea normas que regulan el comportamiento de las empresas y el consumo de las familias.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. El Estado establece leyes y normas para organizar la economía y proteger a las personas.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_vf_004",
+      "tipo": "vf",
+      "pregunta": "Los impuestos se pagan en función de las posibilidades económicas de cada persona.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La idea es que quienes tienen más bienes o ingresos aporten más impuestos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_vf_005",
+      "tipo": "vf",
+      "pregunta": "Los impuestos sirven para redistribuir la riqueza y corregir desigualdades.",
+      "respuesta_correcta": true,
+      "explicacion": "Exacto. Los impuestos ayudan a financiar servicios y reducir desigualdades.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_vf_006",
+      "tipo": "vf",
+      "pregunta": "La responsabilidad social de las empresas solo tiene que ver con vender más productos.",
+      "respuesta_correcta": false,
+      "explicacion": "Falso. La responsabilidad social incluye cuidar el medioambiente, respetar a los trabajadores y ofrecer buenos productos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_vf_007",
+      "tipo": "vf",
+      "pregunta": "Una economía sostenible intenta cuidar el medioambiente y mejorar la vida de las personas.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. La economía sostenible busca producir y consumir de forma responsable.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_vf_008",
+      "tipo": "vf",
+      "pregunta": "Las familias compran productos y servicios para cubrir sus necesidades.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Las familias consumen bienes y servicios y pagan por ellos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_test_001",
+      "tipo": "test",
+      "pregunta": "¿Qué es el trabajo?",
+      "opciones": {
+        "A": "Las tareas que realizan las personas para producir bienes y servicios",
+        "B": "Un impuesto",
+        "C": "Una bandera",
+        "D": "Una ley europea"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El trabajo consiste en las tareas que realizan las personas para producir bienes y servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_test_002",
+      "tipo": "test",
+      "pregunta": "¿Quién establece normas para regular empresas y consumo?",
+      "opciones": {
+        "A": "El Estado",
+        "B": "Los juguetes",
+        "C": "Los museos",
+        "D": "Los planetas"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado establece normas para regular la economía.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_test_003",
+      "tipo": "test",
+      "pregunta": "¿Qué hacen normalmente las familias en la economía?",
+      "opciones": {
+        "A": "Compran productos y servicios",
+        "B": "Gobiernan el país",
+        "C": "Hacen leyes en el Parlamento",
+        "D": "Juzgan en los tribunales"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las familias consumen bienes y servicios para cubrir sus necesidades.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_test_004",
+      "tipo": "test",
+      "pregunta": "¿Qué pagan las familias a cambio de productos o servicios?",
+      "opciones": {
+        "A": "Dinero",
+        "B": "Una bandera",
+        "C": "Una ley",
+        "D": "Un mapa"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las familias pagan dinero para comprar productos o recibir servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_test_005",
+      "tipo": "test",
+      "pregunta": "¿Para qué sirven los impuestos?",
+      "opciones": {
+        "A": "Para redistribuir la riqueza y corregir desigualdades",
+        "B": "Para contaminar más",
+        "C": "Para no ayudar a nadie",
+        "D": "Para eliminar las normas"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los impuestos ayudan a financiar servicios y a reducir desigualdades.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_test_006",
+      "tipo": "test",
+      "pregunta": "¿Cuál es una responsabilidad social con el medioambiente?",
+      "opciones": {
+        "A": "Construir menos y aprovechar recursos",
+        "B": "Tirar basura al río",
+        "C": "Gastar siempre más energía",
+        "D": "Romper los árboles"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Una empresa responsable cuida el medioambiente y usa mejor los recursos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_test_007",
+      "tipo": "test",
+      "pregunta": "¿Cuál es una responsabilidad social con los trabajadores?",
+      "opciones": {
+        "A": "Ofrecer salarios dignos y buenas condiciones",
+        "B": "No pagar salarios",
+        "C": "No respetar horarios",
+        "D": "Poner en peligro a los trabajadores"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las empresas deben cuidar a sus trabajadores con salarios dignos y buenas condiciones.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_test_008",
+      "tipo": "test",
+      "pregunta": "¿Cuál es una responsabilidad social con los consumidores?",
+      "opciones": {
+        "A": "Ofrecer productos y servicios de calidad",
+        "B": "Engañar siempre",
+        "C": "Vender productos peligrosos",
+        "D": "Ocultar toda la información"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Las empresas deben ofrecer productos y servicios de calidad a los consumidores.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_corta_001",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la institución que establece normas para regular la economía?",
+      "respuestas_aceptadas": [
+        "estado",
+        "el estado"
+      ],
+      "explicacion": "El Estado establece normas y leyes para regular la economía.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_corta_002",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el dinero que pagamos al Estado para financiar servicios y corregir desigualdades?",
+      "respuestas_aceptadas": [
+        "impuestos",
+        "los impuestos",
+        "tributos"
+      ],
+      "explicacion": "Los impuestos permiten financiar servicios y ayudar a redistribuir la riqueza.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_corta_003",
+      "tipo": "corta",
+      "pregunta": "¿Quién compra productos y servicios para cubrir sus necesidades?",
+      "respuestas_aceptadas": [
+        "familias",
+        "las familias",
+        "personas",
+        "las personas"
+      ],
+      "explicacion": "Las familias compran bienes y servicios para cubrir sus necesidades.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_corta_004",
+      "tipo": "corta",
+      "pregunta": "¿Quién produce bienes y servicios en la economía?",
+      "respuestas_aceptadas": [
+        "empresas",
+        "las empresas",
+        "trabajadores",
+        "las empresas y los trabajadores"
+      ],
+      "explicacion": "Las empresas y los trabajadores producen bienes y servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_corta_005",
+      "tipo": "corta",
+      "pregunta": "¿Qué deben cuidar las empresas para no dañar la naturaleza?",
+      "respuestas_aceptadas": [
+        "medioambiente",
+        "el medioambiente",
+        "medio ambiente",
+        "el medio ambiente",
+        "naturaleza",
+        "la naturaleza"
+      ],
+      "explicacion": "Las empresas responsables cuidan el medioambiente.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_corta_006",
+      "tipo": "corta",
+      "pregunta": "¿Qué deben ofrecer las empresas a los consumidores?",
+      "respuestas_aceptadas": [
+        "productos de calidad",
+        "servicios de calidad",
+        "productos y servicios de calidad",
+        "calidad"
+      ],
+      "explicacion": "Las empresas tienen responsabilidad con los consumidores ofreciendo calidad.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_corta_007",
+      "tipo": "corta",
+      "pregunta": "¿Qué tipo de economía intenta cuidar el planeta y mejorar la vida de las personas?",
+      "respuestas_aceptadas": [
+        "economía sostenible",
+        "economia sostenible",
+        "una economía sostenible",
+        "sostenible"
+      ],
+      "explicacion": "La economía sostenible busca producir y consumir cuidando el planeta y a las personas.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_corta_008",
+      "tipo": "corta",
+      "pregunta": "¿Qué reciben los trabajadores a cambio de su trabajo?",
+      "respuestas_aceptadas": [
+        "salario",
+        "un salario",
+        "sueldo",
+        "un sueldo",
+        "dinero"
+      ],
+      "explicacion": "Los trabajadores reciben un salario o sueldo por su trabajo.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_001",
+      "tipo": "rosco",
+      "letra_rosco": "C",
+      "pista": "Con la C: personas que compran productos y servicios.",
+      "respuesta_correcta": "consumidores",
+      "sinonimos_aceptados": [
+        "consumidor",
+        "los consumidores"
+      ],
+      "explicacion": "Los consumidores compran bienes y servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_002",
+      "tipo": "rosco",
+      "letra_rosco": "D",
+      "pista": "Con la D: dinero que reciben los trabajadores por su trabajo.",
+      "respuesta_correcta": "dinero",
+      "sinonimos_aceptados": [
+        "sueldo",
+        "salario"
+      ],
+      "explicacion": "Los trabajadores reciben dinero, salario o sueldo por trabajar.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_003",
+      "tipo": "rosco",
+      "letra_rosco": "E",
+      "pista": "Con la E: institución que regula la economía mediante leyes y normas.",
+      "respuesta_correcta": "estado",
+      "sinonimos_aceptados": [
+        "el estado"
+      ],
+      "explicacion": "El Estado regula la economía con normas y leyes.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_rosco_004",
+      "tipo": "rosco",
+      "letra_rosco": "F",
+      "pista": "Con la F: grupo que consume bienes y servicios para cubrir sus necesidades.",
+      "respuesta_correcta": "familias",
+      "sinonimos_aceptados": [
+        "familia",
+        "las familias"
+      ],
+      "explicacion": "Las familias compran y consumen productos y servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_005",
+      "tipo": "rosco",
+      "letra_rosco": "I",
+      "pista": "Con la I: pagos que se hacen al Estado según las posibilidades económicas.",
+      "respuesta_correcta": "impuestos",
+      "sinonimos_aceptados": [
+        "los impuestos",
+        "tributos"
+      ],
+      "explicacion": "Los impuestos ayudan a redistribuir la riqueza y financiar servicios.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_rosco_006",
+      "tipo": "rosco",
+      "letra_rosco": "M",
+      "pista": "Con la M: entorno natural que las empresas responsables deben cuidar.",
+      "respuesta_correcta": "medioambiente",
+      "sinonimos_aceptados": [
+        "medio ambiente",
+        "el medioambiente",
+        "el medio ambiente"
+      ],
+      "explicacion": "Cuidar el medioambiente es parte de la responsabilidad social.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_007",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: objetos o bienes que venden las empresas.",
+      "respuesta_correcta": "productos",
+      "sinonimos_aceptados": [
+        "producto",
+        "bienes"
+      ],
+      "explicacion": "Las empresas producen y venden productos o servicios.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t05_rosco_008",
+      "tipo": "rosco",
+      "letra_rosco": "R",
+      "pista": "Con la R: actitud de una empresa que cuida el medioambiente, a los trabajadores y a los consumidores.",
+      "respuesta_correcta": "responsabilidad",
+      "sinonimos_aceptados": [
+        "responsabilidad social",
+        "responsable"
+      ],
+      "explicacion": "La responsabilidad social de las empresas implica actuar de forma justa y cuidadosa.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_rosco_009",
+      "tipo": "rosco",
+      "letra_rosco": "S",
+      "pista": "Con la S: economía que busca cuidar el planeta y mejorar la vida de las personas.",
+      "respuesta_correcta": "sostenible",
+      "sinonimos_aceptados": [
+        "economía sostenible",
+        "economia sostenible"
+      ],
+      "explicacion": "Una economía sostenible cuida el medioambiente y a las personas.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t05_rosco_010",
+      "tipo": "rosco",
+      "letra_rosco": "T",
+      "pista": "Con la T: actividad que realizan las personas para producir bienes y servicios.",
+      "respuesta_correcta": "trabajo",
+      "sinonimos_aceptados": [
+        "el trabajo"
+      ],
+      "explicacion": "El trabajo produce bienes y servicios.",
+      "dificultad": "facil"
+    }
+  ],
+  "repaso_rapido_sugerido": [
+    "sociales_t05_vf_001",
+    "sociales_t05_test_002",
+    "sociales_t05_corta_002",
+    "sociales_t05_rosco_009",
+    "sociales_t05_test_007"
+  ]
+}

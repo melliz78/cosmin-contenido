@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "5primaria",
+    "asignatura": "sociales",
+    "tema": "tema_04_derechos_constitucion_y_organizacion_politica",
+    "titulo": "Derechos, Constitución y organización política",
+    "idioma": "es",
+    "version": "2026-05-11"
+  },
+  "preguntas": [
+    {
+      "id": "sociales_t04_vf_001",
+      "tipo": "vf",
+      "pregunta": "Todas las personas tenemos derechos que deben respetarse.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Los derechos protegen aspectos importantes de la vida de las personas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_vf_002",
+      "tipo": "vf",
+      "pregunta": "El derecho a la educación es un derecho fundamental de los niños y las niñas.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. La educación es uno de los derechos fundamentales de la infancia.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_vf_003",
+      "tipo": "vf",
+      "pregunta": "Los niños solo tienen derechos, pero no tienen deberes.",
+      "respuesta_correcta": false,
+      "explicacion": "Falso. Los niños tienen derechos, pero también deberes, como estudiar, respetar a los demás y cuidar la salud.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_vf_004",
+      "tipo": "vf",
+      "pregunta": "La Constitución Española es la ley fundamental del Estado.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La Constitución es la norma principal de España.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_vf_005",
+      "tipo": "vf",
+      "pregunta": "España es una monarquía parlamentaria.",
+      "respuesta_correcta": true,
+      "explicacion": "Exacto. Según la Constitución, España es una monarquía parlamentaria.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_vf_006",
+      "tipo": "vf",
+      "pregunta": "El poder legislativo se encarga de juzgar a quienes incumplen las leyes.",
+      "respuesta_correcta": false,
+      "explicacion": "Falso. El poder legislativo elabora las leyes. El poder judicial juzga a quienes incumplen las leyes.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_vf_007",
+      "tipo": "vf",
+      "pregunta": "La Unión Europea está formada por 27 países.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. La Unión Europea es una unión política, económica y social formada por 27 países.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_vf_008",
+      "tipo": "vf",
+      "pregunta": "Uno de los objetivos de la Unión Europea es promover la paz.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. La Unión Europea busca promover la unidad, mantener la paz y mejorar la vida de las personas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_test_001",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos es un derecho fundamental?",
+      "opciones": {
+        "A": "Derecho a la vida",
+        "B": "Derecho a saltarse las normas",
+        "C": "Derecho a no estudiar nunca",
+        "D": "Derecho a romper cosas"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El derecho a la vida es un derecho fundamental de todas las personas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_test_002",
+      "tipo": "test",
+      "pregunta": "¿Cuál de estos es un deber de los niños?",
+      "opciones": {
+        "A": "Respetar a los demás",
+        "B": "No cuidar la salud",
+        "C": "No decir nunca la verdad",
+        "D": "No ayudar en casa"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Respetar a los demás es uno de los deberes de los niños y niñas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_test_003",
+      "tipo": "test",
+      "pregunta": "¿Qué es la Constitución Española?",
+      "opciones": {
+        "A": "La ley fundamental del Estado",
+        "B": "Un mapa de Europa",
+        "C": "Un libro de cuentos",
+        "D": "Una bandera"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "La Constitución Española es la ley fundamental del Estado.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_test_004",
+      "tipo": "test",
+      "pregunta": "¿En qué año se aprobó la Constitución Española actual?",
+      "opciones": {
+        "A": "1492",
+        "B": "1789",
+        "C": "1978",
+        "D": "2002"
+      },
+      "respuesta_correcta": "C",
+      "explicacion": "La Constitución Española actual se aprobó en 1978.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_test_005",
+      "tipo": "test",
+      "pregunta": "¿Qué poder del Estado elabora y aprueba las leyes?",
+      "opciones": {
+        "A": "Poder legislativo",
+        "B": "Poder ejecutivo",
+        "C": "Poder judicial",
+        "D": "Poder deportivo"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "El poder legislativo elabora y aprueba las leyes. Lo ejercen las Cortes Generales.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_test_006",
+      "tipo": "test",
+      "pregunta": "¿Qué poder aplica las leyes y gobierna el país?",
+      "opciones": {
+        "A": "Poder judicial",
+        "B": "Poder ejecutivo",
+        "C": "Poder legislativo",
+        "D": "Poder municipal"
+      },
+      "respuesta_correcta": "B",
+      "explicacion": "El poder ejecutivo aplica las leyes y gobierna el país. Lo ejerce el Gobierno.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_test_007",
+      "tipo": "test",
+      "pregunta": "¿Qué institución juzga a quienes incumplen las leyes?",
+      "opciones": {
+        "A": "Los tribunales de justicia",
+        "B": "El colegio",
+        "C": "Las empresas",
+        "D": "Los museos"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Los tribunales de justicia ejercen el poder judicial.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_test_008",
+      "tipo": "test",
+      "pregunta": "¿Qué moneda usan muchos países de la Unión Europea?",
+      "opciones": {
+        "A": "El euro",
+        "B": "La peseta",
+        "C": "El dólar",
+        "D": "El yen"
+      },
+      "respuesta_correcta": "A",
+      "explicacion": "Muchos países de la Unión Europea usan el euro como moneda común.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_corta_001",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la ley fundamental del Estado español?",
+      "respuestas_aceptadas": [
+        "constitución",
+        "constitucion",
+        "la constitución",
+        "la constitucion",
+        "constitución española",
+        "constitucion española"
+      ],
+      "explicacion": "La Constitución Española es la ley fundamental del Estado.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_002",
+      "tipo": "corta",
+      "pregunta": "¿En qué año se aprobó la Constitución Española actual?",
+      "respuestas_aceptadas": [
+        "1978",
+        "mil novecientos setenta y ocho"
+      ],
+      "explicacion": "La Constitución Española actual se aprobó en 1978.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_003",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la forma de gobierno de España?",
+      "respuestas_aceptadas": [
+        "monarquía parlamentaria",
+        "monarquia parlamentaria",
+        "una monarquía parlamentaria"
+      ],
+      "explicacion": "España es una monarquía parlamentaria.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_004",
+      "tipo": "corta",
+      "pregunta": "¿Qué poder del Estado elabora las leyes?",
+      "respuestas_aceptadas": [
+        "legislativo",
+        "poder legislativo",
+        "el poder legislativo"
+      ],
+      "explicacion": "El poder legislativo elabora y aprueba las leyes.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_005",
+      "tipo": "corta",
+      "pregunta": "¿Qué poder del Estado gobierna el país?",
+      "respuestas_aceptadas": [
+        "ejecutivo",
+        "poder ejecutivo",
+        "el poder ejecutivo"
+      ],
+      "explicacion": "El poder ejecutivo gobierna el país y aplica las leyes.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_006",
+      "tipo": "corta",
+      "pregunta": "¿Qué poder del Estado juzga a quienes incumplen las leyes?",
+      "respuestas_aceptadas": [
+        "judicial",
+        "poder judicial",
+        "el poder judicial"
+      ],
+      "explicacion": "El poder judicial juzga a quienes incumplen las leyes.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_corta_007",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la moneda común de muchos países europeos?",
+      "respuestas_aceptadas": [
+        "euro",
+        "el euro"
+      ],
+      "explicacion": "El euro es la moneda que usan muchos países de la Unión Europea.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_corta_008",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la unión política, económica y social formada por 27 países europeos?",
+      "respuestas_aceptadas": [
+        "unión europea",
+        "union europea",
+        "la unión europea",
+        "la union europea",
+        "ue"
+      ],
+      "explicacion": "La Unión Europea está formada por 27 países europeos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_001",
+      "tipo": "rosco",
+      "letra_rosco": "C",
+      "pista": "Con la C: ley fundamental del Estado español.",
+      "respuesta_correcta": "constitución",
+      "sinonimos_aceptados": [
+        "constitucion",
+        "constitución española",
+        "constitucion española"
+      ],
+      "explicacion": "La Constitución Española es la norma principal de España.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_002",
+      "tipo": "rosco",
+      "letra_rosco": "D",
+      "pista": "Con la D: normas y obligaciones que también tienen los niños.",
+      "respuesta_correcta": "deberes",
+      "sinonimos_aceptados": [
+        "deber",
+        "los deberes"
+      ],
+      "explicacion": "Además de derechos, los niños tienen deberes, como estudiar y respetar a los demás.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_rosco_003",
+      "tipo": "rosco",
+      "letra_rosco": "E",
+      "pista": "Con la E: moneda común de muchos países de la Unión Europea.",
+      "respuesta_correcta": "euro",
+      "sinonimos_aceptados": [
+        "el euro"
+      ],
+      "explicacion": "El euro facilita el comercio y los viajes entre muchos países europeos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_rosco_004",
+      "tipo": "rosco",
+      "letra_rosco": "G",
+      "pista": "Con la G: institución que ejerce el poder ejecutivo en España.",
+      "respuesta_correcta": "gobierno",
+      "sinonimos_aceptados": [
+        "el gobierno",
+        "gobierno de españa"
+      ],
+      "explicacion": "El Gobierno aplica las leyes y gobierna el país.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_005",
+      "tipo": "rosco",
+      "letra_rosco": "J",
+      "pista": "Con la J: poder que juzga a quienes incumplen las leyes.",
+      "respuesta_correcta": "judicial",
+      "sinonimos_aceptados": [
+        "poder judicial",
+        "el poder judicial"
+      ],
+      "explicacion": "El poder judicial lo ejercen los tribunales de justicia.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_006",
+      "tipo": "rosco",
+      "letra_rosco": "L",
+      "pista": "Con la L: poder que elabora y aprueba las leyes.",
+      "respuesta_correcta": "legislativo",
+      "sinonimos_aceptados": [
+        "poder legislativo",
+        "el poder legislativo"
+      ],
+      "explicacion": "El poder legislativo lo ejercen las Cortes Generales.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_007",
+      "tipo": "rosco",
+      "letra_rosco": "M",
+      "pista": "Con la M: forma de gobierno de España, según la Constitución.",
+      "respuesta_correcta": "monarquía parlamentaria",
+      "sinonimos_aceptados": [
+        "monarquia parlamentaria",
+        "una monarquía parlamentaria",
+        "una monarquia parlamentaria"
+      ],
+      "explicacion": "España es una monarquía parlamentaria.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_008",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: objetivo importante de la Unión Europea relacionado con evitar guerras.",
+      "respuesta_correcta": "paz",
+      "sinonimos_aceptados": [
+        "la paz",
+        "mantener la paz"
+      ],
+      "explicacion": "Uno de los objetivos de la Unión Europea es mantener la paz.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "sociales_t04_rosco_009",
+      "tipo": "rosco",
+      "letra_rosco": "R",
+      "pista": "Con la R: derecho fundamental relacionado con poder expresar lo que pensamos.",
+      "respuesta_correcta": "opinión",
+      "sinonimos_aceptados": [
+        "opinion",
+        "derecho a la opinión",
+        "derecho a la opinion"
+      ],
+      "explicacion": "El derecho a la opinión permite expresar ideas de forma respetuosa.",
+      "dificultad": "media"
+    },
+    {
+      "id": "sociales_t04_rosco_010",
+      "tipo": "rosco",
+      "letra_rosco": "U",
+      "pista": "Con la U: unión de 27 países europeos que busca mejorar la vida de las personas.",
+      "respuesta_correcta": "unión europea",
+      "sinonimos_aceptados": [
+        "union europea",
+        "la unión europea",
+        "la union europea",
+        "ue"
+      ],
+      "explicacion": "La Unión Europea está formada por 27 países y busca promover la unidad y la paz.",
+      "dificultad": "media"
+    }
+  ],
+  "repaso_rapido_sugerido": [
+    "sociales_t04_vf_004",
+    "sociales_t04_test_004",
+    "sociales_t04_corta_004",
+    "sociales_t04_rosco_008",
+    "sociales_t04_test_008"
+  ]
+}
