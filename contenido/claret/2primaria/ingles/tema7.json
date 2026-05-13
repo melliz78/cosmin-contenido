@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "2primaria",
+    "asignatura": "ingles",
+    "tema": "off_we_go",
+    "titulo": "Off we go!",
+    "idioma": "en",
+    "version": "2026-05-13"
+  },
+  "preguntas": [
+    {
+      "id": "eng_2p_offwego_001",
+      "tipo": "vf",
+      "pregunta": "A bus can carry many people.",
+      "respuesta_correcta": true,
+      "explicacion": "Correct! A bus can carry many people.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_002",
+      "tipo": "vf",
+      "pregunta": "A helicopter flies in the sky.",
+      "respuesta_correcta": true,
+      "explicacion": "Correct! A helicopter can fly.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_003",
+      "tipo": "vf",
+      "pregunta": "A boat travels on the road.",
+      "respuesta_correcta": false,
+      "explicacion": "No. A boat travels on water.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_004",
+      "tipo": "vf",
+      "pregunta": "A skateboard has wheels.",
+      "respuesta_correcta": true,
+      "explicacion": "Correct! A skateboard has wheels.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_005",
+      "tipo": "vf",
+      "pregunta": "A ship is very small.",
+      "respuesta_correcta": false,
+      "explicacion": "No. A ship is usually big.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_006",
+      "tipo": "test",
+      "pregunta": "Which transport flies in the sky?",
+      "opciones": {
+        "A": "Bus",
+        "B": "Helicopter",
+        "C": "Boat",
+        "D": "Taxi"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": ["helicopter", "a helicopter", "B"],
+      "explicacion": "A helicopter flies in the sky.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_007",
+      "tipo": "test",
+      "pregunta": "Which transport goes on water?",
+      "opciones": {
+        "A": "Boat",
+        "B": "Scooter",
+        "C": "Motorbike",
+        "D": "Bus"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": ["boat", "a boat", "A"],
+      "explicacion": "A boat goes on water.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_008",
+      "tipo": "test",
+      "pregunta": "Which transport can you call in the city?",
+      "opciones": {
+        "A": "Ship",
+        "B": "Taxi",
+        "C": "Skateboard",
+        "D": "Helicopter"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": ["taxi", "a taxi", "B"],
+      "explicacion": "You can call a taxi in the city.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_009",
+      "tipo": "test",
+      "pregunta": "Which one is usually big and carries things?",
+      "opciones": {
+        "A": "Lorry",
+        "B": "Scooter",
+        "C": "Skateboard",
+        "D": "Boat"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": ["lorry", "a lorry", "A"],
+      "explicacion": "A lorry is big and can carry things.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_010",
+      "tipo": "test",
+      "pregunta": "Which one has two wheels and an engine?",
+      "opciones": {
+        "A": "Bus",
+        "B": "Motorbike",
+        "C": "Ship",
+        "D": "Skateboard"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": ["motorbike", "a motorbike", "B"],
+      "explicacion": "A motorbike has two wheels and an engine.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_011",
+      "tipo": "corta",
+      "pregunta": "Say the word: helicóptero.",
+      "respuestas_aceptadas": ["helicopter", "a helicopter"],
+      "explicacion": "Helicóptero in English is helicopter.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_012",
+      "tipo": "corta",
+      "pregunta": "Say the word: barco grande.",
+      "respuestas_aceptadas": ["ship", "a ship"],
+      "explicacion": "Barco grande in English can be ship.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_013",
+      "tipo": "corta",
+      "pregunta": "Say the word: camión.",
+      "respuestas_aceptadas": ["lorry", "a lorry"],
+      "explicacion": "Camión in English is lorry.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_014",
+      "tipo": "corta",
+      "pregunta": "Say the word: barco pequeño.",
+      "respuestas_aceptadas": ["boat", "a boat"],
+      "explicacion": "Barco pequeño in English can be boat.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_015",
+      "tipo": "corta",
+      "pregunta": "Say the word: patinete.",
+      "respuestas_aceptadas": ["scooter", "a scooter"],
+      "explicacion": "Patinete in English is scooter.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_016",
+      "tipo": "corta",
+      "pregunta": "Say the word: monopatín.",
+      "respuestas_aceptadas": ["skateboard", "a skateboard"],
+      "explicacion": "Monopatín in English is skateboard.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_017",
+      "tipo": "corta",
+      "pregunta": "Say the word: moto.",
+      "respuestas_aceptadas": ["motorbike", "a motorbike"],
+      "explicacion": "Moto in English is motorbike.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_018",
+      "tipo": "corta",
+      "pregunta": "Say the word: taxi.",
+      "respuestas_aceptadas": ["taxi", "a taxi"],
+      "explicacion": "Taxi in English is taxi.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_019",
+      "tipo": "corta",
+      "pregunta": "Say the word: autobús.",
+      "respuestas_aceptadas": ["bus", "a bus"],
+      "explicacion": "Autobús in English is bus.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_020",
+      "tipo": "rosco",
+      "letra_rosco": "B",
+      "pista": "It carries many people in the city.",
+      "respuesta_correcta": "bus",
+      "sinonimos_aceptados": ["a bus"],
+      "explicacion": "A bus carries many people.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_021",
+      "tipo": "rosco",
+      "letra_rosco": "H",
+      "pista": "It flies in the sky.",
+      "respuesta_correcta": "helicopter",
+      "sinonimos_aceptados": ["a helicopter"],
+      "explicacion": "A helicopter flies in the sky.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_022",
+      "tipo": "rosco",
+      "letra_rosco": "T",
+      "pista": "You can call it to go somewhere in the city.",
+      "respuesta_correcta": "taxi",
+      "sinonimos_aceptados": ["a taxi"],
+      "explicacion": "A taxi takes people to places.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_023",
+      "tipo": "rosco",
+      "letra_rosco": "S",
+      "pista": "It goes on water and is usually big.",
+      "respuesta_correcta": "ship",
+      "sinonimos_aceptados": ["a ship"],
+      "explicacion": "A ship is a big transport on water.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_024",
+      "tipo": "rosco",
+      "letra_rosco": "L",
+      "pista": "It is a big vehicle that carries things.",
+      "respuesta_correcta": "lorry",
+      "sinonimos_aceptados": ["a lorry"],
+      "explicacion": "A lorry can carry things.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_025",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "The helicopter is in the sky.",
+      "pregunta": "What is in the sky?",
+      "pregunta_es": "¿Qué está en el cielo?",
+      "respuestas_aceptadas_en": ["helicopter", "a helicopter", "the helicopter"],
+      "respuestas_aceptadas_es": ["helicóptero", "un helicóptero"],
+      "explicacion": "Yes! The helicopter is in the sky.",
+      "dificultad": "media"
+    },
+    {
+      "id": "eng_2p_offwego_026",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "The boat is on the water.",
+      "pregunta": "What is on the water?",
+      "pregunta_es": "¿Qué está en el agua?",
+      "respuestas_aceptadas_en": ["boat", "a boat", "the boat"],
+      "respuestas_aceptadas_es": ["barco", "un barco"],
+      "explicacion": "Correct! The boat is on the water.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_027",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "I go to school by bus.",
+      "pregunta": "How do I go to school?",
+      "pregunta_es": "¿Cómo voy al colegio?",
+      "respuestas_aceptadas_en": ["bus", "by bus", "a bus"],
+      "respuestas_aceptadas_es": ["en autobús", "autobús", "bus"],
+      "explicacion": "Good job! I go to school by bus.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "eng_2p_offwego_028",
+      "tipo": "comprension_oral",
+      "idioma": "en",
+      "frase_audio": "The taxi is yellow.",
+      "pregunta": "What transport is yellow?",
+      "pregunta_es": "¿Qué transporte es amarillo?",
+      "respuestas_aceptadas_en": ["taxi", "a taxi", "the taxi"],
+      "respuestas_aceptadas_es": ["taxi", "un taxi"],
+      "explicacion": "Yes! The taxi is yellow.",
+      "dificultad": "facil"
+    }
+  ]
+}
