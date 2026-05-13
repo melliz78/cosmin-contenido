@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "colegio_id": "claret",
+    "curso": "2primaria",
+    "asignatura": "ingles",
+    "idioma": "en",
+    "version": "2026-05-13"
+  },
+  "temas": [
+    {
+      "id": "my_bedroom",
+      "titulo": "My bedroom",
+      "archivo": "my_bedroom.json",
+      "orden": 5,
+      "descripcion": "Bedroom vocabulary: poster, wardrobe, mirror, armchair, lamp, bed, table and sofa.",
+      "idioma": "en",
+      "activo": true
+    },
+    {
+      "id": "off_we_go",
+      "titulo": "Off we go!",
+      "archivo": "off_we_go.json",
+      "orden": 7,
+      "descripcion": "Transport vocabulary: helicopter, ship, lorry, boat, scooter, skateboard, motorbike, taxi and bus.",
+      "idioma": "en",
+      "activo": true
+    }
+  ]
+}
