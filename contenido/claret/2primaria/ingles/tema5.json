@@ -4,6 +4,8 @@
     "curso": "2primaria",
     "asignatura": "ingles",
     "tema": "my_bedroom",
+    "numero": 5,
+    "nombre": "My bedroom",
     "titulo": "My bedroom",
     "idioma": "en",
     "version": "2026-05-13"
@@ -60,7 +62,11 @@
         "D": "Poster"
       },
       "respuesta_correcta": "A",
-      "sinonimos_aceptados": ["bed", "a bed", "A"],
+      "sinonimos_aceptados": [
+        "bed",
+        "a bed",
+        "A"
+      ],
       "explicacion": "You sleep in a bed.",
       "dificultad": "facil"
     },
@@ -75,7 +81,11 @@
         "D": "Table"
       },
       "respuesta_correcta": "B",
-      "sinonimos_aceptados": ["wardrobe", "a wardrobe", "B"],
+      "sinonimos_aceptados": [
+        "wardrobe",
+        "a wardrobe",
+        "B"
+      ],
       "explicacion": "You put your clothes in a wardrobe.",
       "dificultad": "facil"
     },
@@ -90,7 +100,11 @@
         "D": "Poster"
       },
       "respuesta_correcta": "A",
-      "sinonimos_aceptados": ["lamp", "a lamp", "A"],
+      "sinonimos_aceptados": [
+        "lamp",
+        "a lamp",
+        "A"
+      ],
       "explicacion": "A lamp gives light.",
       "dificultad": "facil"
     },
@@ -105,7 +119,11 @@
         "D": "Table"
       },
       "respuesta_correcta": "C",
-      "sinonimos_aceptados": ["mirror", "a mirror", "C"],
+      "sinonimos_aceptados": [
+        "mirror",
+        "a mirror",
+        "C"
+      ],
       "explicacion": "You use a mirror to see yourself.",
       "dificultad": "facil"
     },
@@ -120,7 +138,11 @@
         "D": "Wardrobe"
       },
       "respuesta_correcta": "B",
-      "sinonimos_aceptados": ["armchair", "an armchair", "B"],
+      "sinonimos_aceptados": [
+        "armchair",
+        "an armchair",
+        "B"
+      ],
       "explicacion": "You can sit on an armchair.",
       "dificultad": "media"
     },
@@ -128,7 +150,10 @@
       "id": "eng_2p_mybedroom_011",
       "tipo": "corta",
       "pregunta": "Say the word: cama.",
-      "respuestas_aceptadas": ["bed", "a bed"],
+      "respuestas_aceptadas": [
+        "bed",
+        "a bed"
+      ],
       "explicacion": "Cama in English is bed.",
       "dificultad": "facil"
     },
@@ -136,7 +161,10 @@
       "id": "eng_2p_mybedroom_012",
       "tipo": "corta",
       "pregunta": "Say the word: lámpara.",
-      "respuestas_aceptadas": ["lamp", "a lamp"],
+      "respuestas_aceptadas": [
+        "lamp",
+        "a lamp"
+      ],
       "explicacion": "Lámpara in English is lamp.",
       "dificultad": "facil"
     },
@@ -144,7 +172,10 @@
       "id": "eng_2p_mybedroom_013",
       "tipo": "corta",
       "pregunta": "Say the word: espejo.",
-      "respuestas_aceptadas": ["mirror", "a mirror"],
+      "respuestas_aceptadas": [
+        "mirror",
+        "a mirror"
+      ],
       "explicacion": "Espejo in English is mirror.",
       "dificultad": "facil"
     },
@@ -152,7 +183,10 @@
       "id": "eng_2p_mybedroom_014",
       "tipo": "corta",
       "pregunta": "Say the word: armario.",
-      "respuestas_aceptadas": ["wardrobe", "a wardrobe"],
+      "respuestas_aceptadas": [
+        "wardrobe",
+        "a wardrobe"
+      ],
       "explicacion": "Armario in English is wardrobe.",
       "dificultad": "media"
     },
@@ -160,7 +194,10 @@
       "id": "eng_2p_mybedroom_015",
       "tipo": "corta",
       "pregunta": "Say the word: póster.",
-      "respuestas_aceptadas": ["poster", "a poster"],
+      "respuestas_aceptadas": [
+        "poster",
+        "a poster"
+      ],
       "explicacion": "Póster in English is poster.",
       "dificultad": "facil"
     },
@@ -168,7 +205,10 @@
       "id": "eng_2p_mybedroom_016",
       "tipo": "corta",
       "pregunta": "Say the word: sillón.",
-      "respuestas_aceptadas": ["armchair", "an armchair"],
+      "respuestas_aceptadas": [
+        "armchair",
+        "an armchair"
+      ],
       "explicacion": "Sillón in English is armchair.",
       "dificultad": "media"
     },
@@ -176,7 +216,10 @@
       "id": "eng_2p_mybedroom_017",
       "tipo": "corta",
       "pregunta": "Say the word: mesa.",
-      "respuestas_aceptadas": ["table", "a table"],
+      "respuestas_aceptadas": [
+        "table",
+        "a table"
+      ],
       "explicacion": "Mesa in English is table.",
       "dificultad": "facil"
     },
@@ -184,7 +227,10 @@
       "id": "eng_2p_mybedroom_018",
       "tipo": "corta",
       "pregunta": "Say the word: sofá.",
-      "respuestas_aceptadas": ["sofa", "a sofa"],
+      "respuestas_aceptadas": [
+        "sofa",
+        "a sofa"
+      ],
       "explicacion": "Sofá in English is sofa.",
       "dificultad": "facil"
     },
@@ -194,7 +240,9 @@
       "letra_rosco": "B",
       "pista": "You sleep in it.",
       "respuesta_correcta": "bed",
-      "sinonimos_aceptados": ["a bed"],
+      "sinonimos_aceptados": [
+        "a bed"
+      ],
       "explicacion": "You sleep in a bed.",
       "dificultad": "facil"
     },
@@ -204,7 +252,9 @@
       "letra_rosco": "L",
       "pista": "It gives light.",
       "respuesta_correcta": "lamp",
-      "sinonimos_aceptados": ["a lamp"],
+      "sinonimos_aceptados": [
+        "a lamp"
+      ],
       "explicacion": "A lamp gives light.",
       "dificultad": "facil"
     },
@@ -214,7 +264,9 @@
       "letra_rosco": "M",
       "pista": "You use it to see yourself.",
       "respuesta_correcta": "mirror",
-      "sinonimos_aceptados": ["a mirror"],
+      "sinonimos_aceptados": [
+        "a mirror"
+      ],
       "explicacion": "You can see yourself in a mirror.",
       "dificultad": "facil"
     },
@@ -224,7 +276,9 @@
       "letra_rosco": "W",
       "pista": "You put your clothes in it.",
       "respuesta_correcta": "wardrobe",
-      "sinonimos_aceptados": ["a wardrobe"],
+      "sinonimos_aceptados": [
+        "a wardrobe"
+      ],
       "explicacion": "You put clothes in a wardrobe.",
       "dificultad": "media"
     },
@@ -234,7 +288,9 @@
       "letra_rosco": "P",
       "pista": "A picture you put on the wall.",
       "respuesta_correcta": "poster",
-      "sinonimos_aceptados": ["a poster"],
+      "sinonimos_aceptados": [
+        "a poster"
+      ],
       "explicacion": "A poster is usually on the wall.",
       "dificultad": "media"
     },
@@ -245,8 +301,14 @@
       "frase_audio": "There is a bed in my bedroom.",
       "pregunta": "What is in my bedroom?",
       "pregunta_es": "¿Qué hay en mi dormitorio?",
-      "respuestas_aceptadas_en": ["bed", "a bed"],
-      "respuestas_aceptadas_es": ["cama", "una cama"],
+      "respuestas_aceptadas_en": [
+        "bed",
+        "a bed"
+      ],
+      "respuestas_aceptadas_es": [
+        "cama",
+        "una cama"
+      ],
       "explicacion": "Yes! There is a bed.",
       "dificultad": "facil"
     },
@@ -257,8 +319,15 @@
       "frase_audio": "The lamp is on the table.",
       "pregunta": "What is on the table?",
       "pregunta_es": "¿Qué está encima de la mesa?",
-      "respuestas_aceptadas_en": ["lamp", "a lamp", "the lamp"],
-      "respuestas_aceptadas_es": ["lámpara", "una lámpara"],
+      "respuestas_aceptadas_en": [
+        "lamp",
+        "a lamp",
+        "the lamp"
+      ],
+      "respuestas_aceptadas_es": [
+        "lámpara",
+        "una lámpara"
+      ],
       "explicacion": "Correct! The lamp is on the table.",
       "dificultad": "media"
     },
@@ -269,8 +338,15 @@
       "frase_audio": "The sofa is in the bedroom.",
       "pregunta": "What is in the bedroom?",
       "pregunta_es": "¿Qué hay en el dormitorio?",
-      "respuestas_aceptadas_en": ["sofa", "a sofa", "the sofa"],
-      "respuestas_aceptadas_es": ["sofá", "un sofá"],
+      "respuestas_aceptadas_en": [
+        "sofa",
+        "a sofa",
+        "the sofa"
+      ],
+      "respuestas_aceptadas_es": [
+        "sofá",
+        "un sofá"
+      ],
       "explicacion": "Good job! The sofa is in the bedroom.",
       "dificultad": "facil"
     }
