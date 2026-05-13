@@ -9,6 +9,7 @@
   "temas": [
     {
       "id": "my_bedroom",
+      "numero": 5,
       "titulo": "My bedroom",
       "archivo": "tema5.json",
       "orden": 5,
@@ -18,6 +19,7 @@
     },
     {
       "id": "off_we_go",
+      "numero": 7,
       "titulo": "Off we go!",
       "archivo": "tema7.json",
       "orden": 7,
