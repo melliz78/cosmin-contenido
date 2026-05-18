@@ -1,0 +1,32 @@
+{
+  "guillermo": {
+    "nombre": "Guillermo",
+    "colegio": "pajanosas",
+    "curso": "3primaria"
+  },
+  "adrian": {
+    "nombre": "Adrián",
+    "colegio": "pajanosas",
+    "curso": "3primaria"
+  },
+  "adri": {
+    "nombre": "Adri",
+    "colegio": "pajanosas",
+    "curso": "3primaria"
+  },
+  "leo": {
+    "nombre": "Leo",
+    "colegio": "pajanosas",
+    "curso": "3primaria"
+  },
+  "angela": {
+    "nombre": "Ángela",
+    "colegio": "claret",
+    "curso": "2primaria"
+  },
+  "lucia": {
+    "nombre": "Lucía",
+    "colegio": "claret",
+    "curso": "5primaria"
+  }
+}
