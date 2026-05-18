@@ -1,1 +1,14 @@
-
+{
+  "asignatura": "mates",
+  "colegio_id": "pajanosas",
+  "curso": "3primaria",
+  "temas": [
+    {
+      "id": "tema_11",
+      "numero": 11,
+      "nombre": "Caminamos sin barreras",
+      "fichero": "tema_11_caminamos_sin_barreras.json",
+      "descripcion": "Rectas secantes, paralelas y perpendiculares; ángulos; planos; posición y movimientos en el plano; barreras arquitectónicas"
+    }
+  ]
+}
