@@ -1,0 +1,679 @@
+{
+  "meta": {
+    "colegio_id": "pajanosas",
+    "curso": "3primaria",
+    "asignatura": "mates",
+    "tema": "tema_11_caminamos_sin_barreras",
+    "titulo": "Caminamos sin barreras",
+    "idioma": "es",
+    "version": "2026-05-18"
+  },
+  "preguntas": [
+    {
+      "id": "mates_t11_vf_001",
+      "tipo": "vf",
+      "pregunta": "Las rectas secantes son rectas que se cortan en un punto.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Dos rectas secantes se cruzan o se cortan en un punto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_002",
+      "tipo": "vf",
+      "pregunta": "Las rectas paralelas se cortan si las alargamos mucho.",
+      "respuesta_correcta": false,
+      "explicacion": "No. Las rectas paralelas no se cortan aunque las prolonguemos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_003",
+      "tipo": "vf",
+      "pregunta": "Dos rectas perpendiculares forman ángulos rectos.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. Las rectas perpendiculares se cortan formando cuatro ángulos rectos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_004",
+      "tipo": "vf",
+      "pregunta": "Un ángulo tiene dos lados y un vértice.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Los elementos principales de un ángulo son sus dos lados y el vértice.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_005",
+      "tipo": "vf",
+      "pregunta": "El vértice de un ángulo es la abertura del ángulo.",
+      "respuesta_correcta": false,
+      "explicacion": "No. El vértice es el punto donde se unen los dos lados. La abertura se llama amplitud.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_vf_006",
+      "tipo": "vf",
+      "pregunta": "Un ángulo agudo es menor que un ángulo recto.",
+      "respuesta_correcta": true,
+      "explicacion": "Exacto. El ángulo agudo es más pequeño que el ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_007",
+      "tipo": "vf",
+      "pregunta": "Un ángulo obtuso es menor que un ángulo recto.",
+      "respuesta_correcta": false,
+      "explicacion": "No. Un ángulo obtuso es mayor que un ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_008",
+      "tipo": "vf",
+      "pregunta": "Un plano sirve para representar un espacio o un lugar.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Un plano es un dibujo de un lugar visto desde arriba.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_009",
+      "tipo": "vf",
+      "pregunta": "Para explicar un recorrido podemos usar palabras como avanza, gira a la derecha o gira a la izquierda.",
+      "respuesta_correcta": true,
+      "explicacion": "Muy bien. Esas instrucciones sirven para moverse por un plano.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_010",
+      "tipo": "vf",
+      "pregunta": "Las barreras arquitectónicas ayudan siempre a las personas a desplazarse mejor.",
+      "respuesta_correcta": false,
+      "explicacion": "No. Las barreras arquitectónicas son obstáculos que dificultan el desplazamiento.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_vf_011",
+      "tipo": "vf",
+      "pregunta": "Una rampa puede ayudar a eliminar una barrera arquitectónica.",
+      "respuesta_correcta": true,
+      "explicacion": "Correcto. Una rampa facilita el paso a personas con carrito, silla de ruedas o movilidad reducida.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_vf_012",
+      "tipo": "vf",
+      "pregunta": "Si dos calles no se cortan nunca, pueden ser calles paralelas.",
+      "respuesta_correcta": true,
+      "explicacion": "Exacto. Las calles paralelas siguen la misma dirección y no se cruzan.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_test_001",
+      "tipo": "test",
+      "pregunta": "¿Cómo se llaman las rectas que se cortan en un punto?",
+      "opciones": {
+        "A": "Paralelas",
+        "B": "Secantes",
+        "C": "Curvas",
+        "D": "Abiertas"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": [
+        "B",
+        "secantes",
+        "rectas secantes"
+      ],
+      "explicacion": "Las rectas secantes son las que se cortan en un punto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_002",
+      "tipo": "test",
+      "pregunta": "¿Cómo se llaman las rectas que no se cortan aunque las prolonguemos?",
+      "opciones": {
+        "A": "Paralelas",
+        "B": "Secantes",
+        "C": "Perpendiculares",
+        "D": "Ángulos"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "paralelas",
+        "rectas paralelas"
+      ],
+      "explicacion": "Las rectas paralelas no se cortan nunca aunque las alarguemos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_003",
+      "tipo": "test",
+      "pregunta": "¿Qué forman dos rectas secantes al cortarse?",
+      "opciones": {
+        "A": "Cuatro ángulos",
+        "B": "Una circunferencia",
+        "C": "Un cuadrado siempre",
+        "D": "Una tabla"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "cuatro ángulos",
+        "angulos"
+      ],
+      "explicacion": "Dos rectas secantes forman cuatro ángulos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_test_004",
+      "tipo": "test",
+      "pregunta": "¿Qué rectas forman cuatro ángulos rectos al cortarse?",
+      "opciones": {
+        "A": "Rectas paralelas",
+        "B": "Rectas perpendiculares",
+        "C": "Rectas curvas",
+        "D": "Rectas abiertas"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": [
+        "B",
+        "perpendiculares",
+        "rectas perpendiculares"
+      ],
+      "explicacion": "Las rectas perpendiculares forman cuatro ángulos rectos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_test_005",
+      "tipo": "test",
+      "pregunta": "¿Cuál es un elemento de un ángulo?",
+      "opciones": {
+        "A": "Vértice",
+        "B": "Kilómetro",
+        "C": "Litro",
+        "D": "Mes"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "vértice",
+        "vertice"
+      ],
+      "explicacion": "El vértice es el punto donde se unen los lados del ángulo.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_006",
+      "tipo": "test",
+      "pregunta": "¿Cómo es un ángulo agudo?",
+      "opciones": {
+        "A": "Mayor que un ángulo recto",
+        "B": "Menor que un ángulo recto",
+        "C": "Igual que una recta",
+        "D": "Siempre circular"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": [
+        "B",
+        "menor que un ángulo recto",
+        "menor"
+      ],
+      "explicacion": "Un ángulo agudo es menor que un ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_007",
+      "tipo": "test",
+      "pregunta": "¿Cómo es un ángulo obtuso?",
+      "opciones": {
+        "A": "Menor que un recto",
+        "B": "Mayor que un recto",
+        "C": "No tiene lados",
+        "D": "Es una línea paralela"
+      },
+      "respuesta_correcta": "B",
+      "sinonimos_aceptados": [
+        "B",
+        "mayor que un recto",
+        "mayor"
+      ],
+      "explicacion": "Un ángulo obtuso es mayor que un ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_008",
+      "tipo": "test",
+      "pregunta": "¿Qué instrumento puede ayudarte a dibujar rectas?",
+      "opciones": {
+        "A": "Regla",
+        "B": "Cepillo",
+        "C": "Cuchara",
+        "D": "Balón"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "regla",
+        "una regla"
+      ],
+      "explicacion": "La regla nos ayuda a dibujar rectas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_009",
+      "tipo": "test",
+      "pregunta": "¿Qué instrumento puede ayudarte a dibujar un ángulo recto?",
+      "opciones": {
+        "A": "Escuadra",
+        "B": "Reloj",
+        "C": "Moneda",
+        "D": "Cuerda"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "escuadra",
+        "una escuadra"
+      ],
+      "explicacion": "La escuadra sirve para dibujar y comprobar ángulos rectos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_010",
+      "tipo": "test",
+      "pregunta": "¿Qué es un plano?",
+      "opciones": {
+        "A": "Un dibujo de un lugar visto desde arriba",
+        "B": "Un animal",
+        "C": "Una operación de sumar",
+        "D": "Un tipo de comida"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "dibujo de un lugar",
+        "un dibujo desde arriba"
+      ],
+      "explicacion": "Un plano representa un lugar visto desde arriba.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_011",
+      "tipo": "test",
+      "pregunta": "¿Qué orden sirve para moverse en un plano?",
+      "opciones": {
+        "A": "Gira a la derecha",
+        "B": "Come una fruta",
+        "C": "Pinta una nube",
+        "D": "Lee un cuento"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "gira a la derecha",
+        "derecha"
+      ],
+      "explicacion": "Gira a la derecha es una instrucción de movimiento.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_test_012",
+      "tipo": "test",
+      "pregunta": "¿Qué es una barrera arquitectónica?",
+      "opciones": {
+        "A": "Un obstáculo que dificulta desplazarse",
+        "B": "Una recta paralela",
+        "C": "Una operación matemática",
+        "D": "Una figura sin lados"
+      },
+      "respuesta_correcta": "A",
+      "sinonimos_aceptados": [
+        "A",
+        "obstáculo",
+        "obstaculo",
+        "un obstáculo"
+      ],
+      "explicacion": "Una barrera arquitectónica dificulta que las personas se desplacen por calles o edificios.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_corta_001",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llaman las rectas que se cortan en un punto?",
+      "respuestas_aceptadas": [
+        "secantes",
+        "rectas secantes",
+        "las secantes"
+      ],
+      "explicacion": "Las rectas secantes se cortan en un punto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_002",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llaman las rectas que no se cortan nunca aunque se alarguen?",
+      "respuestas_aceptadas": [
+        "paralelas",
+        "rectas paralelas",
+        "las paralelas"
+      ],
+      "explicacion": "Las rectas paralelas no se cortan aunque se prolonguen.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_003",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llaman las rectas que forman cuatro ángulos rectos?",
+      "respuestas_aceptadas": [
+        "perpendiculares",
+        "rectas perpendiculares",
+        "las perpendiculares"
+      ],
+      "explicacion": "Las rectas perpendiculares forman cuatro ángulos rectos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_corta_004",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el punto donde se unen los lados de un ángulo?",
+      "respuestas_aceptadas": [
+        "vértice",
+        "vertice",
+        "el vértice",
+        "el vertice"
+      ],
+      "explicacion": "El vértice es el punto donde se unen los dos lados del ángulo.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_005",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama la abertura de un ángulo?",
+      "respuestas_aceptadas": [
+        "amplitud",
+        "la amplitud",
+        "abertura"
+      ],
+      "explicacion": "La abertura de un ángulo se llama amplitud.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_corta_006",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el ángulo que es menor que un ángulo recto?",
+      "respuestas_aceptadas": [
+        "agudo",
+        "ángulo agudo",
+        "angulo agudo"
+      ],
+      "explicacion": "El ángulo agudo es menor que el ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_007",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el ángulo que es mayor que un ángulo recto?",
+      "respuestas_aceptadas": [
+        "obtuso",
+        "ángulo obtuso",
+        "angulo obtuso"
+      ],
+      "explicacion": "El ángulo obtuso es mayor que el ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_008",
+      "tipo": "corta",
+      "pregunta": "¿Qué instrumento usamos para trazar rectas?",
+      "respuestas_aceptadas": [
+        "regla",
+        "una regla",
+        "la regla"
+      ],
+      "explicacion": "La regla se usa para trazar rectas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_009",
+      "tipo": "corta",
+      "pregunta": "¿Qué instrumento usamos para dibujar o comprobar ángulos rectos?",
+      "respuestas_aceptadas": [
+        "escuadra",
+        "una escuadra",
+        "la escuadra"
+      ],
+      "explicacion": "La escuadra ayuda a dibujar y comprobar ángulos rectos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_corta_010",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llama el dibujo que representa un lugar visto desde arriba?",
+      "respuestas_aceptadas": [
+        "plano",
+        "un plano",
+        "el plano"
+      ],
+      "explicacion": "Un plano es un dibujo de un lugar visto desde arriba.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_corta_011",
+      "tipo": "corta",
+      "pregunta": "Di una instrucción que sirva para movernos en un plano.",
+      "respuestas_aceptadas": [
+        "avanza",
+        "avanza una casilla",
+        "gira a la derecha",
+        "gira a la izquierda",
+        "derecha",
+        "izquierda"
+      ],
+      "explicacion": "Para movernos en un plano podemos decir avanza, gira a la derecha o gira a la izquierda.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_corta_012",
+      "tipo": "corta",
+      "pregunta": "¿Cómo se llaman los obstáculos que dificultan el paso en calles o edificios?",
+      "respuestas_aceptadas": [
+        "barreras arquitectónicas",
+        "barreras arquitectonicas",
+        "barrera arquitectónica",
+        "barrera arquitectonica"
+      ],
+      "explicacion": "Las barreras arquitectónicas dificultan el desplazamiento de algunas personas.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_rosco_001",
+      "tipo": "rosco",
+      "letra_rosco": "A",
+      "pista": "Con la A: abertura de un ángulo.",
+      "respuesta_correcta": "amplitud",
+      "sinonimos_aceptados": [
+        "la amplitud",
+        "abertura"
+      ],
+      "explicacion": "La amplitud es la abertura del ángulo.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_rosco_002",
+      "tipo": "rosco",
+      "letra_rosco": "A",
+      "pista": "Con la A: ángulo menor que un ángulo recto.",
+      "respuesta_correcta": "agudo",
+      "sinonimos_aceptados": [
+        "ángulo agudo",
+        "angulo agudo"
+      ],
+      "explicacion": "Un ángulo agudo es menor que un ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_003",
+      "tipo": "rosco",
+      "letra_rosco": "B",
+      "pista": "Con la B: obstáculo que dificulta desplazarse por calles o edificios.",
+      "respuesta_correcta": "barrera",
+      "sinonimos_aceptados": [
+        "barrera arquitectónica",
+        "barrera arquitectonica",
+        "barreras arquitectónicas",
+        "barreras arquitectonicas"
+      ],
+      "explicacion": "Una barrera arquitectónica dificulta el desplazamiento.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_rosco_004",
+      "tipo": "rosco",
+      "letra_rosco": "D",
+      "pista": "Con la D: lado al que giras cuando no giras a la izquierda.",
+      "respuesta_correcta": "derecha",
+      "sinonimos_aceptados": [
+        "la derecha",
+        "girar a la derecha"
+      ],
+      "explicacion": "Derecha e izquierda son palabras útiles para explicar recorridos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_005",
+      "tipo": "rosco",
+      "letra_rosco": "E",
+      "pista": "Con la E: instrumento que ayuda a dibujar ángulos rectos.",
+      "respuesta_correcta": "escuadra",
+      "sinonimos_aceptados": [
+        "una escuadra",
+        "la escuadra"
+      ],
+      "explicacion": "La escuadra sirve para dibujar o comprobar ángulos rectos.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_006",
+      "tipo": "rosco",
+      "letra_rosco": "I",
+      "pista": "Con la I: lado contrario a la derecha.",
+      "respuesta_correcta": "izquierda",
+      "sinonimos_aceptados": [
+        "la izquierda",
+        "girar a la izquierda"
+      ],
+      "explicacion": "Izquierda y derecha sirven para orientarnos en un plano.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_007",
+      "tipo": "rosco",
+      "letra_rosco": "L",
+      "pista": "Con la L: cada una de las dos partes que forman un ángulo desde el vértice.",
+      "respuesta_correcta": "lado",
+      "sinonimos_aceptados": [
+        "lados",
+        "los lados"
+      ],
+      "explicacion": "Un ángulo tiene dos lados.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_008",
+      "tipo": "rosco",
+      "letra_rosco": "O",
+      "pista": "Con la O: ángulo mayor que un ángulo recto.",
+      "respuesta_correcta": "obtuso",
+      "sinonimos_aceptados": [
+        "ángulo obtuso",
+        "angulo obtuso"
+      ],
+      "explicacion": "Un ángulo obtuso es mayor que un ángulo recto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_009",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: rectas que no se cortan aunque se prolonguen.",
+      "respuesta_correcta": "paralelas",
+      "sinonimos_aceptados": [
+        "rectas paralelas",
+        "las paralelas"
+      ],
+      "explicacion": "Las rectas paralelas no se cortan nunca.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_010",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: dibujo de un lugar visto desde arriba.",
+      "respuesta_correcta": "plano",
+      "sinonimos_aceptados": [
+        "un plano",
+        "el plano"
+      ],
+      "explicacion": "Un plano representa un lugar visto desde arriba.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_011",
+      "tipo": "rosco",
+      "letra_rosco": "P",
+      "pista": "Con la P: rectas que forman cuatro ángulos rectos.",
+      "respuesta_correcta": "perpendiculares",
+      "sinonimos_aceptados": [
+        "rectas perpendiculares",
+        "las perpendiculares"
+      ],
+      "explicacion": "Las rectas perpendiculares forman cuatro ángulos rectos.",
+      "dificultad": "media"
+    },
+    {
+      "id": "mates_t11_rosco_012",
+      "tipo": "rosco",
+      "letra_rosco": "R",
+      "pista": "Con la R: instrumento que usamos para trazar rectas.",
+      "respuesta_correcta": "regla",
+      "sinonimos_aceptados": [
+        "una regla",
+        "la regla"
+      ],
+      "explicacion": "La regla sirve para trazar rectas.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_013",
+      "tipo": "rosco",
+      "letra_rosco": "S",
+      "pista": "Con la S: rectas que se cortan en un punto.",
+      "respuesta_correcta": "secantes",
+      "sinonimos_aceptados": [
+        "rectas secantes",
+        "las secantes"
+      ],
+      "explicacion": "Las rectas secantes se cortan en un punto.",
+      "dificultad": "facil"
+    },
+    {
+      "id": "mates_t11_rosco_014",
+      "tipo": "rosco",
+      "letra_rosco": "V",
+      "pista": "Con la V: punto donde se unen los lados de un ángulo.",
+      "respuesta_correcta": "vértice",
+      "sinonimos_aceptados": [
+        "vertice",
+        "el vértice",
+        "el vertice"
+      ],
+      "explicacion": "El vértice es el punto donde se unen los lados del ángulo.",
+      "dificultad": "facil"
+    }
+  ],
+  "repaso_rapido_sugerido": [
+    "mates_t11_vf_001",
+    "mates_t11_test_002",
+    "mates_t11_corta_004",
+    "mates_t11_test_006",
+    "mates_t11_rosco_010"
+  ]
+}
